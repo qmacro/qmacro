@@ -1,0 +1,28 @@
+name: README builder
+on:
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        
+      - name: Build README
+        run: npm run build > TEST.md
+        
+      - name: Configure git
+        run: |
+          git config --global user.email "qmacro-bot@example.com"
+          git config --global user.name "qmacro bot"
+        
+      - name: Append line
+        run: |
+          git add TEST.md
+          git commit -m 'update TEST entry' || exit 0
+          git push
