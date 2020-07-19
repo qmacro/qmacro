@@ -10,7 +10,7 @@ const URL = 'https://qmacro.org/feed.xml'
 const main = async _ => {
   try {
     const feed = await parser.parseURL(URL)
-    const items = feed.items.map(item => {
+    const items = feed.items.slice(0, 3).map(item => {
       item.date = new Date(item.pubDate).toDateString()
       return item
     })
