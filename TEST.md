@@ -12,17 +12,19 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <table width="100%">
 <tr>
 <td width="100%">
-## Latest posts from [qmacro.org](https://qmacro.org)
-- [Removing the knob on a La Pavoni steam valve](http://qmacro.org/2020/06/20/removing-pavoni-steam-valve-knob/)
-- [Remote mount setup on the Raspberry Pi](http://qmacro.org/2020/06/07/remote-mount-setup-on-the-pi/)
-- [Initial Pi configuration via Ansible](http://qmacro.org/2020/04/05/initial-pi-configuration-via-ansible/)
-- [Code at Home episodes](http://qmacro.org/2020/04/02/code-at-home-episodes/)
-- [Let&#x27;s learn to &quot;Code at Home&quot;](http://qmacro.org/2020/03/24/code-at-home/)
-- [Finding the Pis on the network](http://qmacro.org/2020/03/22/finding-the-pis-on-the-network/)
-- [Preparing the OS image](http://qmacro.org/2020/03/22/preparing-the-os-image/)
-- [Starting out with Raspberry Pi experiments](http://qmacro.org/2020/03/22/starting-out-with-raspberry-pi-experiments/)
-- [Brambleweeny Cluster Experiments](http://qmacro.org/2020/03/22/brambleweeny-cluster-experiments/)
-- [New podcast - Tech Aloud](http://qmacro.org/2019/09/17/new-podcast-tech-aloud/)
+
+**Latest posts from [qmacro.org](https://qmacro.org)**
+- [Removing the knob on a La Pavoni steam valve](http://qmacro.org/2020/06/20/removing-pavoni-steam-valve-knob/) (Sat Jun 20 2020)
+- [Remote mount setup on the Raspberry Pi](http://qmacro.org/2020/06/07/remote-mount-setup-on-the-pi/) (Sun Jun 07 2020)
+- [Initial Pi configuration via Ansible](http://qmacro.org/2020/04/05/initial-pi-configuration-via-ansible/) (Sun Apr 05 2020)
+- [Code at Home episodes](http://qmacro.org/2020/04/02/code-at-home-episodes/) (Thu Apr 02 2020)
+- [Let&#x27;s learn to &quot;Code at Home&quot;](http://qmacro.org/2020/03/24/code-at-home/) (Tue Mar 24 2020)
+- [Finding the Pis on the network](http://qmacro.org/2020/03/22/finding-the-pis-on-the-network/) (Sun Mar 22 2020)
+- [Preparing the OS image](http://qmacro.org/2020/03/22/preparing-the-os-image/) (Sun Mar 22 2020)
+- [Starting out with Raspberry Pi experiments](http://qmacro.org/2020/03/22/starting-out-with-raspberry-pi-experiments/) (Sun Mar 22 2020)
+- [Brambleweeny Cluster Experiments](http://qmacro.org/2020/03/22/brambleweeny-cluster-experiments/) (Sun Mar 22 2020)
+- [New podcast - Tech Aloud](http://qmacro.org/2019/09/17/new-podcast-tech-aloud/) (Tue Sep 17 2019)
+
 </td>
 </tr>
 </table>
