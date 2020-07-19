@@ -10,7 +10,11 @@ const URL = 'https://qmacro.org/feed.xml'
 const main = async _ => {
   try {
     const feed = await parser.parseURL(URL)
-    console.log(template(feed))
+    const items = feed.items.map(item => {
+      item.date = new Date(item.pubDate).toDateString()
+      return item
+    })
+    console.log(template({items}))
   } catch (error) {
     console.log(`${error}`)
     process.exit(1)

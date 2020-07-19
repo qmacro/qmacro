@@ -8,9 +8,11 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <table width="100%">
 <tr>
 <td width="100%">
-## Latest posts from [qmacro.org](https://qmacro.org)
-{{#items}}- [{{title}}]({{link}})
+
+**Latest posts from [qmacro.org](https://qmacro.org)**
+{{#items}}- [{{title}}]({{link}}) ({{date}})
 {{/items}}
+
 </td>
 </tr>
 </table>
