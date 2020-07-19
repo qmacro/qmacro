@@ -1,0 +1,21 @@
+{
+  "name": "qmacro",
+  "version": "1.0.0",
+  "description": "qmacro's home on GitHub",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qmacro/qmacro.git"
+  },
+  "keywords": [],
+  "author": "DJ Adams",
+  "license": "MIT",
+  "homepage": "https://github.com/qmacro/qmacro#readme",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "rss-parser": "^3.8.0"
+  }
+}
