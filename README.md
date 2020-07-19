@@ -1,8 +1,4 @@
 
-> qmacro@1.0.0 build /home/runner/work/qmacro/qmacro
-> node build.js
-
-
 ### Hi there 👋
 
 I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
