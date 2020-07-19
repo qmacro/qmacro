@@ -9,5 +9,5 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 {{#items}}- [{{title}}]({{link}}) ({{date}})
 {{/items}}
 
-Follow me on [Twitter](https://twitter.com/qmacro), subscribe to my [YouTube channel](https://www.youtube.com/djadams-qmacro), read posts on my [personal blog](https://qmacro.org), on my [Language Ramblings blog](https://langram.org), and my [current](https://people.sap.com/dj.adams.sap#content:blogposts) & [previous](https://people.sap.com/dj.adams#content:blogposts) profiles on the [SAP Community.](https://community.sap.com).
+Follow me on [Twitter](https://twitter.com/qmacro), subscribe to my [YouTube channel](https://www.youtube.com/djadams-qmacro), read posts on my [personal blog](https://qmacro.org), on my [Language Ramblings blog](https://langram.org), and my [current](https://people.sap.com/dj.adams.sap#content:blogposts) & [previous](https://people.sap.com/dj.adams#content:blogposts) profiles on the [SAP Community](https://community.sap.com).
 `
