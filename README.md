@@ -5,7 +5,9 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world, as well as online on my [YouTube channel](https://www.youtube.com/djadams-qmacro) where I run a regular live stream series called Hands-on SAP dev with qmacro.
 
-<table><tr><td valign="top" width="50%">
+<table>
+<tr valign="top">
+<td width="50%">
   
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [TIL: In an mta.yaml file you can use the service-name parameter to point to an existing resource](http://qmacro.org/2020/07/20/cf-service-name-parameter/) (Mon Jul 20 2020)
@@ -13,7 +15,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Removing the knob on a La Pavoni steam valve](http://qmacro.org/2020/06/20/removing-pavoni-steam-valve-knob/) (Sat Jun 20 2020)
 </td>
 
-<td valign="top">
+<td>
   
 **Latest posts from [langram.org](https://langram.org)**
 - [Shell power and simplicity](http://langram.org/2019/10/23/shell-power-simplicity/) (Wed Oct 23 2019)
@@ -22,8 +24,8 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 </td>
 </tr>
 
-<tr>
-<td valign="top" width="50%">
+<tr valign="top">
+<td width="50%">
   
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [SAP NPM packages now on npmjs.org](https://blogs.sap.com/?p&#x3D;1136028) (Thu Jul 02 2020)
@@ -31,7 +33,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP Community Coding Challenge 2 - Contestants](https://blogs.sap.com/?p&#x3D;1118943) (Mon Jun 08 2020)
 </td>
 
-<td valign="top">
+<td>
   
 **Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [HandsOnSAPDev Ep.81 - Growing functions in JS from reduce() upwards](https://www.youtube.com/watch?v&#x3D;4BptIHoRDAk) (Mon Jul 20 2020)
