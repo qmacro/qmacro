@@ -9,6 +9,22 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <tr valign="top">
 <td width="50%">
 
+**Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [SAP NPM packages now on npmjs.org](https://blogs.sap.com/?p&#x3D;1136028) (Thu Jul 02 2020)
+- [SAP Community Coding Challenge 2 - Winner](https://blogs.sap.com/?p&#x3D;1125157) (Wed Jun 17 2020)
+- [SAP Community Coding Challenge 2 - Contestants](https://blogs.sap.com/?p&#x3D;1118943) (Mon Jun 08 2020)
+</td>
+<td>
+
+**Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
+- [HandsOnSAPDev Ep.81 - Growing functions in JS from reduce() upwards](https://www.youtube.com/watch?v&#x3D;4BptIHoRDAk) (Mon Jul 20 2020)
+- [HandsOnSAPDev Ep.80 - Workflow on SAP Cloud Platform - Boosters, App Studio and more](https://www.youtube.com/watch?v&#x3D;Pn0pk0L0s_o) (Fri Jul 17 2020)
+- [HandsOnSAPDev Ep.79 - A first look at the Core Service APIs for SAP Cloud Platform](https://www.youtube.com/watch?v&#x3D;yY3pXcw4e7c) (Fri Jul 10 2020)
+</td>
+</tr>
+<tr valign="top">
+<td width="50%">
+
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [TIL: In an mta.yaml file you can use the service-name parameter to point to an existing resource](http://qmacro.org/2020/07/20/cf-service-name-parameter/) (Mon Jul 20 2020)
 - [TIL: git diff can emit different exit codes](http://qmacro.org/2020/07/20/github-actions-step-conditional/) (Mon Jul 20 2020)
@@ -23,22 +39,6 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 </td>
 </tr>
 
-<tr valign="top">
-<td width="50%">
-
-**Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
-- [SAP NPM packages now on npmjs.org](https://blogs.sap.com/?p&#x3D;1136028) (Thu Jul 02 2020)
-- [SAP Community Coding Challenge 2 - Winner](https://blogs.sap.com/?p&#x3D;1125157) (Wed Jun 17 2020)
-- [SAP Community Coding Challenge 2 - Contestants](https://blogs.sap.com/?p&#x3D;1118943) (Mon Jun 08 2020)
-</td>
-<td>
-
-**Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
-- [HandsOnSAPDev Ep.81 - Growing functions in JS from reduce() upwards](https://www.youtube.com/watch?v&#x3D;4BptIHoRDAk) (Mon Jul 20 2020)
-- [HandsOnSAPDev Ep.80 - Workflow on SAP Cloud Platform - Boosters, App Studio and more](https://www.youtube.com/watch?v&#x3D;Pn0pk0L0s_o) (Fri Jul 17 2020)
-- [HandsOnSAPDev Ep.79 - A first look at the Core Service APIs for SAP Cloud Platform](https://www.youtube.com/watch?v&#x3D;yY3pXcw4e7c) (Fri Jul 10 2020)
-</td>
-</tr>
 </table>
 
 Follow me on [Twitter](https://twitter.com/qmacro), subscribe to my [YouTube channel](https://www.youtube.com/djadams-qmacro), read posts on my [personal blog](https://qmacro.org), on my [Language Ramblings blog](https://langram.org), and my [current](https://people.sap.com/dj.adams.sap#content:blogposts) & [previous](https://people.sap.com/dj.adams#content:blogposts) profiles on the [SAP Community](https://community.sap.com).
