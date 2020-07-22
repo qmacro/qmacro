@@ -1,9 +1,10 @@
 name: README builder
 on:
+  push:
   workflow_dispatch:
   schedule:
     - cron:  '0 */6 * * *'
-      
+
 jobs:
 
   build:
@@ -24,7 +25,7 @@ jobs:
       - name: Check for changes (fail if none)
         run: |
           ! git diff --quiet
-          
+
       - name: Commit changes if required
         if: ${{ success() }}
         run: |
