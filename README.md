@@ -17,9 +17,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td>
 
 **Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
-- [HandsOnSAPDev Ep.81 - Growing functions in JS from reduce() upwards](https://www.youtube.com/watch?v&#x3D;4BptIHoRDAk) (Mon Jul 20 2020)
 - [HandsOnSAPDev Ep.80 - Workflow on SAP Cloud Platform - Boosters, App Studio and more](https://www.youtube.com/watch?v&#x3D;Pn0pk0L0s_o) (Fri Jul 17 2020)
 - [HandsOnSAPDev Ep.79 - A first look at the Core Service APIs for SAP Cloud Platform](https://www.youtube.com/watch?v&#x3D;yY3pXcw4e7c) (Fri Jul 10 2020)
+- [HandsOnSAPDev Ep.92 - Enterprise Messaging and CAP with David Kunz](https://www.youtube.com/watch?v&#x3D;pe59y2wXCeA) (Fri Jul 03 2020)
 </td>
 </tr>
 <tr valign="top">
