@@ -26,9 +26,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td width="50%">
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [TIL: String.prototype.replace() can take a function](http://qmacro.org/2020/08/04/replace-with-fn/) (Tue Aug 04 2020)
 - [TIL: continue-on-error can prevent a job step failure causing an action failure](http://qmacro.org/2020/07/21/continue-on-error/) (Tue Jul 21 2020)
 - [TIL: In an mta.yaml file you can use the service-name parameter to point to an existing resource](http://qmacro.org/2020/07/20/cf-service-name-parameter/) (Mon Jul 20 2020)
-- [TIL: git diff can emit different exit codes](http://qmacro.org/2020/07/20/github-actions-step-conditional/) (Mon Jul 20 2020)
 </td>
 <td>
 
