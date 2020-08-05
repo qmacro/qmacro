@@ -18,7 +18,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 </td>
 <td>
 
-**Latest qmacro episodes from [SAPDevs](https://www.youtube.com/user/sapdevs) [Hands-on SAP Dev playlist](https://www.youtube.com/playlist?list=PL6RpkC85SLQABOpzhd7WI-hMpy99PxUo0)**
+**Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [A recursive reduce() and other JS function explorations](https://www.youtube.com/watch?v&#x3D;GISTzWHGaW0) (Fri Jul 31 2020)
 - [SAP Cloud Application Programming model resources with Iwona Hahn](https://www.youtube.com/watch?v&#x3D;GDRacPZnJYk) (Thu Jul 30 2020)
 
