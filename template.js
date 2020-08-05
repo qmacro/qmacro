@@ -6,32 +6,53 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world, as well as online on my [YouTube channel](https://www.youtube.com/djadams-qmacro) where I run a regular live stream series called Hands-on SAP dev with qmacro.
 
 <table>
+
 <tr valign="top">
 <td width="50%">
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 {{#sap}}- [{{_title}}]({{_link}}) ({{_date}})
 {{/sap}}
+
 </td>
 <td>
 
-**Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
-{{#youtube}}- [{{_title}}]({{_link}}) ({{_date}})
-{{/youtube}}
+**Latest qmacro episodes from [SAPDevs](https://www.youtube.com/user/sapdevs) [Hands-on SAP Dev playlist](https://www.youtube.com/playlist?list=PL6RpkC85SLQABOpzhd7WI-hMpy99PxUo0)**
+{{#ytsapdevs}}- [{{_title}}]({{_link}}) ({{_date}})
+{{/ytsapdevs}}
+
 </td>
 </tr>
+
 <tr valign="top">
 <td width="50%">
+
+**Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
+{{#ytqmacro}}- [{{_title}}]({{_link}}) ({{_date}})
+{{/ytqmacro}}
+
+</td>
+<td>
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 {{#qmacro}}- [{{_title}}]({{_link}}) ({{_date}})
 {{/qmacro}}
+
 </td>
+</tr>
+
+<tr valign="top">
 <td>
 
 **Latest posts from [langram.org](https://langram.org)**
 {{#langram}}- [{{_title}}]({{_link}}) ({{_date}})
 {{/langram}}
+
+</td>
+<td width="50%">
+
+<!-- currently empty -->
+
 </td>
 </tr>
 

@@ -11,7 +11,8 @@ const sources = {
   RSS: {
     qmacro:  'https://qmacro.org/feed.xml',
     langram: 'https://langram.org/feed.xml',
-    youtube: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCDUgrP3koL_o2iz6m55H1uA',
+    ytqmacro: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCDUgrP3koL_o2iz6m55H1uA',
+    ytsapdevs: 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb'
   },
   other: {
     sap:     `https://content.services.sap.com/cs/searches/userProfile?userName=dj.adams.sap&objectTypes=blogpost&sort=published,desc&size=${maxItems}&page=0`
@@ -63,12 +64,14 @@ const main = async _ => {
     const feeds = {}
     feeds.qmacro = await latestRSS(sources.RSS.qmacro)
     feeds.langram = await latestRSS(sources.RSS.langram)
-    feeds.youtube = await latestRSS(sources.RSS.youtube)
+    feeds.ytqmacro = await latestRSS(sources.RSS.ytqmacro)
+    feeds.ytsapdevs = await latestRSS(sources.RSS.ytsapdevs)
     feeds.sap = await latestContent(sources.other.sap)
     console.log(template({
       qmacro: feeds.qmacro,
       langram: feeds.langram,
-      youtube: feeds.youtube,
+      ytqmacro: feeds.ytqmacro,
+      ytsapdevs: feeds.ytsapdevs,
       sap: feeds.sap
     }))
   } catch (error) {
