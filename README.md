@@ -11,7 +11,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td width="50%">
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
-- [SAP NPM packages now on npmjs.org](https://blogs.sap.com/2020/07/02/sap-npm-packages-now-on-npmjs.org/) (Thu Jul 02 2020)
+- [SAP NPM packages now on npmjs.org](https://blogs.sap.com/?p&#x3D;1136028) (Thu Jul 02 2020)
 - [SAP Community Coding Challenge 2 – Winner](https://blogs.sap.com/2020/06/17/sap-community-coding-challenge-2-winner/) (Wed Jun 17 2020)
 - [SAP Community Coding Challenge 2 – Contestants](https://blogs.sap.com/2020/06/08/sap-community-coding-challenge-2-contestants/) (Mon Jun 08 2020)
 
