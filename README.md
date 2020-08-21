@@ -37,9 +37,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td>
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [TIL: The open square bracket [ is an executable](http://qmacro.org/2020/08/21/open-square-bracket/) (Fri Aug 21 2020)
 - [TIL: Why we have /bin/ and /usr/bin/](http://qmacro.org/2020/08/16/usr-dir/) (Sun Aug 16 2020)
 - [TIL: String.prototype.replace() can take a function](http://qmacro.org/2020/08/04/replace-with-fn/) (Tue Aug 04 2020)
-- [TIL: continue-on-error can prevent a job step failure causing an action failure](http://qmacro.org/2020/07/21/continue-on-error/) (Tue Jul 21 2020)
 
 </td>
 </tr>
