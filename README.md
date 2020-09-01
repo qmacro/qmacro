@@ -21,6 +21,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [A recursive reduce() and other JS function explorations](https://www.youtube.com/watch?v&#x3D;GISTzWHGaW0) (Fri Jul 31 2020)
 - [SAP Cloud Application Programming model resources with Iwona Hahn](https://www.youtube.com/watch?v&#x3D;GDRacPZnJYk) (Thu Jul 30 2020)
+- [Diving into messaging on SAP Cloud Platform - Part 1](https://www.youtube.com/watch?v&#x3D;qHjzefGn4W4) (Fri Aug 07 2020)
 
 </td>
 </tr>
