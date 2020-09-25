@@ -19,8 +19,8 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td>
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Diving into messaging on SAP Cloud Platform - Part 3](https://www.youtube.com/watch?v&#x3D;VDrRc8d_6cw) (Fri Aug 28 2020)
-- [Diving into messaging on SAP Cloud Platform - Part 2](https://www.youtube.com/watch?v&#x3D;Ct-uiu3RRZs) (Fri Aug 21 2020)
+- [Diving into messaging on SAP Cloud Platform - Part 3 - Queue subscriptions &amp; topics](https://www.youtube.com/watch?v&#x3D;VDrRc8d_6cw) (Fri Aug 28 2020)
+- [Diving into messaging on SAP Cloud Platform - Part 2 - Webhook subscriptions](https://www.youtube.com/watch?v&#x3D;Ct-uiu3RRZs) (Fri Aug 21 2020)
 - [Diving into messaging on SAP Cloud Platform - Part 1 - Addendum!](https://www.youtube.com/watch?v&#x3D;DfgDFtMcqqQ) (Fri Aug 07 2020)
 
 </td>
