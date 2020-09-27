@@ -38,9 +38,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td>
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [TIL: Shell parameter expansion with :+ is useful](http://qmacro.org/2020/09/27/shell-parameter-expansion-with-+/) (Sun Sep 27 2020)
 - [Reducing writing friction](http://qmacro.org/2020/09/11/reducing-writing-friction/) (Fri Sep 11 2020)
 - [TIL: You can mask sensitive hostnames with wildcards and host aliases](http://qmacro.org/2020/08/25/hostaliases/) (Tue Aug 25 2020)
-- [TIL: The open square bracket [ is an executable](http://qmacro.org/2020/08/21/open-square-bracket/) (Fri Aug 21 2020)
 
 </td>
 </tr>
