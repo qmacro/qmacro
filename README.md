@@ -38,9 +38,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td>
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [A new learning source for shell scripting](http://qmacro.org/2020/10/03/a-new-learning-source-for-shell-scripting/) (Sat Oct 03 2020)
 - [TIL: Shell parameter expansion with :+ is useful](http://qmacro.org/2020/09/27/shell-parameter-expansion-with-+/) (Sun Sep 27 2020)
 - [Reducing writing friction](http://qmacro.org/2020/09/11/reducing-writing-friction/) (Fri Sep 11 2020)
-- [TIL: You can mask sensitive hostnames with wildcards and host aliases](http://qmacro.org/2020/08/25/hostaliases/) (Tue Aug 25 2020)
 
 </td>
 </tr>
