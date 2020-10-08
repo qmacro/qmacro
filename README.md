@@ -10,6 +10,25 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <tr valign="top">
 <td width="50%">
 
+**Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Desnowballification with set -o errexit](/autodidactics/2020/10/06/desnowballification-with-set-e/) (Tue Oct 06 2020)
+- [Checking a command is available before use](/autodidactics/2020/10/04/check-command-available/) (Sun Oct 04 2020)
+- [curl and multipart/form-data](/autodidactics/2020/10/04/curl-and-multipart-form-data/) (Sun Oct 04 2020)
+
+</td>
+<td>
+
+**Latest posts from [qmacro.org](https://qmacro.org)**
+- [Improving my shell scripting](http://qmacro.org/2020/10/05/improving-my-shell-scripting/) (Mon Oct 05 2020)
+- [A new learning source for shell scripting](http://qmacro.org/2020/10/03/a-new-learning-source-for-shell-scripting/) (Sat Oct 03 2020)
+- [Reducing writing friction](http://qmacro.org/2020/09/11/reducing-writing-friction/) (Fri Sep 11 2020)
+
+</td>
+</tr>
+
+<tr valign="top">
+<td width="50%">
+
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Programmer&#x27;s Day Mission 2020](https://blogs.sap.com/?p&#x3D;1176062) (Tue Sep 08 2020)
 - [SAP NPM packages now on npmjs.org](https://blogs.sap.com/?p&#x3D;1136028) (Thu Jul 02 2020)
@@ -37,26 +56,10 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 </td>
 <td>
 
-**Latest posts from [qmacro.org](https://qmacro.org)**
-- [Improving my shell scripting](http://qmacro.org/2020/10/05/improving-my-shell-scripting/) (Mon Oct 05 2020)
-- [A new learning source for shell scripting](http://qmacro.org/2020/10/03/a-new-learning-source-for-shell-scripting/) (Sat Oct 03 2020)
-- [Reducing writing friction](http://qmacro.org/2020/09/11/reducing-writing-friction/) (Fri Sep 11 2020)
-
-</td>
-</tr>
-
-<tr valign="top">
-<td>
-
 **Latest posts from [langram.org](https://langram.org)**
 - [Shell power and simplicity](http://langram.org/2019/10/23/shell-power-simplicity/) (Wed Oct 23 2019)
 - [The Observer&#x27;s Book of JS Style](http://langram.org/2019/07/18/observers-book-of-js-style/) (Thu Jul 18 2019)
 - [ES6, reduce and pipe](http://langram.org/2019/04/08/es6-reduce-and-pipe/) (Mon Apr 08 2019)
-
-</td>
-<td width="50%">
-
-<!-- currently empty -->
 
 </td>
 </tr>
