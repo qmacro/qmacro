@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td width="50%">
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Understanding declare](https://qmacro.org/autodidactics/2020/10/08/understanding-declare/) (Thu Oct 08 2020)
 - [Desnowballification with set -o errexit](https://qmacro.org/autodidactics/2020/10/06/desnowballification-with-set-e/) (Tue Oct 06 2020)
 - [Checking a command is available before use](https://qmacro.org/autodidactics/2020/10/04/check-command-available/) (Sun Oct 04 2020)
-- [curl and multipart/form-data](https://qmacro.org/autodidactics/2020/10/04/curl-and-multipart-form-data/) (Sun Oct 04 2020)
 
 </td>
 <td>
