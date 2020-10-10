@@ -39,7 +39,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Diving into messaging on SAP Cloud Platform - Part 7 - Consuming messages in CAP](https://www.youtube.com/watch?v&#x3D;KubBBehzJk0) (Fri Oct 02 2020)
-- [Diving into messaging on SAP Cloud Platform - Part 8 - Wrapping up](https://www.youtube.com/watch?v&#x3D;SwWzhKPYPkk) (Fri Oct 02 2020)
+- [Diving into messaging on SAP Cloud Platform - Part 8 - Wrapping up](https://www.youtube.com/watch?v&#x3D;SwWzhKPYPkk) (Fri Oct 09 2020)
 - [Cloud APIs - Ex.06 - Calling the Workflow API from within the SAP API Business Hub](https://www.youtube.com/watch?v&#x3D;C92_0AL0wLY) (Thu Oct 01 2020)
 
 </td>
