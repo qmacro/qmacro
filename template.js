@@ -58,6 +58,21 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 </td>
 </tr>
 
+<tr valign="top">
+<td width="50%">
+
+**Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
+{{#techaloud}}- [{{_title}}]({{_link}}) ({{_date}})
+{{/techaloud}}
+
+</td>
+<td>
+
+<!--empty-->
+
+</td>
+</tr>
+
 </table>
 
 Follow me on [Twitter](https://twitter.com/qmacro), subscribe to my [YouTube channel](https://www.youtube.com/djadams-qmacro), read posts on my [personal blog](https://qmacro.org), on my [Language Ramblings blog](https://langram.org), and my [current](https://people.sap.com/dj.adams.sap#content:blogposts) & [previous](https://people.sap.com/dj.adams#content:blogposts) profiles on the [SAP Community](https://community.sap.com).
