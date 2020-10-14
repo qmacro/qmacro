@@ -77,7 +77,7 @@ const main = async _ => {
       langram: feeds.langram,
       ytqmacro: feeds.ytqmacro,
       ytsapdevs: feeds.ytsapdevs,
-      techaloud: feeds.techaloud
+      techaloud: feeds.techaloud,
       sap: feeds.sap
     }))
   } catch (error) {
