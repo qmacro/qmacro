@@ -64,6 +64,22 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 </td>
 </tr>
 
+<tr valign="top">
+<td width="50%">
+
+**Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
+- [The User Interface - from The UNIX Time-sharing SystemA Retrospective](https://anchor.fm/tech-aloud/episodes/The-User-Interface---from-The-UNIX-Time-sharing-SystemA-Retrospective-eku7oa) (Mon Oct 12 2020)
+- [CAP is important because it’s not important - 6 Nov 2019 - DJ Adams](https://anchor.fm/tech-aloud/episodes/CAP-is-important-because-its-not-important---6-Nov-2019---DJ-Adams-e8rg7s) (Wed Nov 06 2019)
+- [12 Factor Apps in Plain English - Will Koffel - 14 Jan 2014](https://anchor.fm/tech-aloud/episodes/12-Factor-Apps-in-Plain-English---Will-Koffel---14-Jan-2014-e863pc) (Fri Oct 25 2019)
+
+</td>
+<td>
+
+<!--empty-->
+
+</td>
+</tr>
+
 </table>
 
 Follow me on [Twitter](https://twitter.com/qmacro), subscribe to my [YouTube channel](https://www.youtube.com/djadams-qmacro), read posts on my [personal blog](https://qmacro.org), on my [Language Ramblings blog](https://langram.org), and my [current](https://people.sap.com/dj.adams.sap#content:blogposts) & [previous](https://people.sap.com/dj.adams#content:blogposts) profiles on the [SAP Community](https://community.sap.com).
