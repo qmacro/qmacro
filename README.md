@@ -38,7 +38,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 2](https://www.youtube.com/watch?v&#x3D;eP2bSC94mk8) (Fri Oct 30 2020)
-- [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 1](https://www.youtube.com/watch?v&#x3D;E9Ha0tnXGS4) (Mon Oct 26 2020)
+- [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 1](https://www.youtube.com/watch?v&#x3D;E9Ha0tnXGS4) (Fri Oct 30 2020)
 - [Customizing the SAP Business Application Studio with dotfiles](https://www.youtube.com/watch?v&#x3D;YrrxWdIjqEE) (Fri Oct 23 2020)
 
 </td>
