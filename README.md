@@ -18,9 +18,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td>
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [The subtle art of quoting newline characters](http://qmacro.org/2020/11/01/the-subtle-art-of-quoting-newline-characters/) (Sun Nov 01 2020)
 - [Improving my shell scripting](http://qmacro.org/2020/10/05/improving-my-shell-scripting/) (Mon Oct 05 2020)
 - [A new learning source for shell scripting](http://qmacro.org/2020/10/03/a-new-learning-source-for-shell-scripting/) (Sat Oct 03 2020)
-- [Reducing writing friction](http://qmacro.org/2020/09/11/reducing-writing-friction/) (Fri Sep 11 2020)
 
 </td>
 </tr>
