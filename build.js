@@ -70,7 +70,7 @@ const main = async _ => {
     feeds.ytqmacro = await latestRSS(sources.RSS.ytqmacro)
     feeds.ytsapdevs = await latestRSS(sources.RSS.ytsapdevs)
     feeds.techaloud = await latestRSS(sources.RSS.techaloud)
-    feeds.sap = await latestContent(sources.other.sap)
+    //feeds.sap = await latestContent(sources.other.sap)
     console.log(template({
       qmacro: feeds.qmacro,
       autodidactics: feeds.autodidactics,
@@ -78,7 +78,7 @@ const main = async _ => {
       ytqmacro: feeds.ytqmacro,
       ytsapdevs: feeds.ytsapdevs,
       techaloud: feeds.techaloud,
-      sap: feeds.sap
+      //sap: feeds.sap
     }))
   } catch (error) {
     console.log(`${error}`)
