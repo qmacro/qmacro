@@ -18,9 +18,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td>
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [The myriad meanings of pwd in Unix systems](http://qmacro.org/2020/11/08/the-meaning-of-pwd-in-unix-systems/) (Sun Nov 08 2020)
+- [Computer Unit 1979](http://qmacro.org/2020/11/03/computer-unit-1979/) (Tue Nov 03 2020)
 - [The subtle art of quoting newline characters](http://qmacro.org/2020/11/01/the-subtle-art-of-quoting-newline-characters/) (Sun Nov 01 2020)
-- [Improving my shell scripting](http://qmacro.org/2020/10/05/improving-my-shell-scripting/) (Mon Oct 05 2020)
-- [A new learning source for shell scripting](http://qmacro.org/2020/10/03/a-new-learning-source-for-shell-scripting/) (Sat Oct 03 2020)
 
 </td>
 </tr>
@@ -29,17 +29,14 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td width="50%">
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
-- [Programmer&#x27;s Day Mission 2020](https://blogs.sap.com/?p&#x3D;1176062) (Tue Sep 08 2020)
-- [SAP NPM packages now on npmjs.org](https://blogs.sap.com/?p&#x3D;1136028) (Thu Jul 02 2020)
-- [SAP Community Coding Challenge 2 – Winner](https://blogs.sap.com/2020/06/17/sap-community-coding-challenge-2-winner/) (Wed Jun 17 2020)
 
 </td>
 <td>
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 2](https://www.youtube.com/watch?v&#x3D;eP2bSC94mk8) (Fri Nov 06 2020)
 - [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 1](https://www.youtube.com/watch?v&#x3D;E9Ha0tnXGS4) (Fri Oct 30 2020)
 - [Customizing the SAP Business Application Studio with dotfiles](https://www.youtube.com/watch?v&#x3D;YrrxWdIjqEE) (Fri Oct 23 2020)
-- [Diving into messaging on SAP Cloud Platform - Part 8 - Wrapping up](https://www.youtube.com/watch?v&#x3D;SwWzhKPYPkk) (Fri Oct 09 2020)
 
 </td>
 </tr>
