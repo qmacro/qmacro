@@ -1,5 +1,10 @@
 const Parser = require('rss-parser')
-const parser = new Parser()
+const parser = new Parser({
+  headers: {
+    'Accept': 'application/atom+xml'
+  }
+})
+
 const request = require('then-request')
 
 const Handlebars = require('handlebars')
@@ -14,10 +19,8 @@ const sources = {
     langram:       'https://langram.org/feed.xml',
     ytqmacro:      'https://www.youtube.com/feeds/videos.xml?channel_id=UCDUgrP3koL_o2iz6m55H1uA',
     ytsapdevs:     'https://www.youtube.com/feeds/videos.xml?playlist_id=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb',
-    techaloud:     'https://anchor.fm/s/e5dc36c/podcast/rss'
-  },
-  other: {
-    sap:           `https://content.services.sap.com/cs/searches/userProfile?userName=dj.adams.sap&objectTypes=blogpost&sort=published,desc&size=${maxItems}&page=0`
+    techaloud:     'https://anchor.fm/s/e5dc36c/podcast/rss',
+    sap:           'https://content.services.sap.com/feed?type=blogpost&author=dj.adams.sap'
   }
 }
 
@@ -33,12 +36,6 @@ const normalise = {
     item._link  = item.link
     item._date  = item.pubDate
     return item
-  },
-  other: item => {
-    item._title = item.displayName
-    item._link  = item.url
-    item._date  = item.published
-    return item
   }
 }
 
@@ -52,16 +49,7 @@ const latestRSS = async URL => {
     .map(niceDate)
 }
 
-const latestContent = async URL => {
-  const res = await request('GET', URL)
-  return JSON.parse(res.getBody())
-    ._embedded.contents
-    .map(normalise.other)
-    .map(niceDate)
-}
-
-
-const main = async _ => {
+const main = async () => {
   try {
     const feeds = {}
     feeds.qmacro = await latestRSS(sources.RSS.qmacro)
@@ -70,7 +58,7 @@ const main = async _ => {
     feeds.ytqmacro = await latestRSS(sources.RSS.ytqmacro)
     feeds.ytsapdevs = await latestRSS(sources.RSS.ytsapdevs)
     feeds.techaloud = await latestRSS(sources.RSS.techaloud)
-    //feeds.sap = await latestContent(sources.other.sap)
+    feeds.sap = await latestRSS(sources.RSS.sap)
     console.log(template({
       qmacro: feeds.qmacro,
       autodidactics: feeds.autodidactics,
@@ -78,7 +66,7 @@ const main = async _ => {
       ytqmacro: feeds.ytqmacro,
       ytsapdevs: feeds.ytsapdevs,
       techaloud: feeds.techaloud,
-      //sap: feeds.sap
+      sap: feeds.sap
     }))
   } catch (error) {
     console.log(`${error}`)
