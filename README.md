@@ -29,9 +29,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td width="50%">
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [My SAP TechEd 2020 - what I&#x27;m looking forward to](https://blogs.sap.com/?p&#x3D;1219260) (Wed Nov 11 2020)
 - [An overview of SAP Developers video content](https://blogs.sap.com/?p&#x3D;1217792) (Mon Nov 09 2020)
 - [Programmer&#x27;s Day Mission 2020](https://blogs.sap.com/?p&#x3D;1176062) (Tue Sep 08 2020)
-- [SAP NPM packages now on npmjs.org](https://blogs.sap.com/?p&#x3D;1136028) (Thu Jul 02 2020)
 
 </td>
 <td>
