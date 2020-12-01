@@ -29,9 +29,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td width="50%">
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [UTFRW - Unofficial TechEd Fun Run / Walk](https://blogs.sap.com/?p&#x3D;1231125) (Tue Dec 01 2020)
 - [SAP TechEd Developer Keynote DK100 - The Story](https://blogs.sap.com/?p&#x3D;1223486) (Thu Nov 19 2020)
 - [My SAP TechEd 2020 - what I&#x27;m looking forward to](https://blogs.sap.com/?p&#x3D;1219260) (Wed Nov 11 2020)
-- [An overview of SAP Developers video content](https://blogs.sap.com/?p&#x3D;1217792) (Mon Nov 09 2020)
 
 </td>
 <td>
