@@ -10,9 +10,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 <td width="50%">
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Implicit values in Bash for loop construct](https://qmacro.org/autodidactics/2020/12/03/implicit-values-in-bash-for-loop/) (Thu Dec 03 2020)
 - [Case modification operators in parameter substitution](https://qmacro.org/autodidactics/2020/10/16/case-modification-operators/) (Fri Oct 16 2020)
 - [MID$ and shell parameter expansion](https://qmacro.org/autodidactics/2020/10/11/mid-and-shell-parameter-expansion/) (Sun Oct 11 2020)
-- [Understanding declare](https://qmacro.org/autodidactics/2020/10/08/understanding-declare/) (Thu Oct 08 2020)
 
 </td>
 <td>
