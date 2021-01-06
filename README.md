@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [The subtle art of quoting newline characters](http://qmacro.org/2020/11/01/the-subtle-art-of-quoting-newline-characters/) (Sun Nov 01 2020)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [Updating your fork of the Developer Keynote repository](https://blogs.sap.com/?p&#x3D;1251735) (Wed Jan 06 2021)
 - [SAP TechEd 2020 Channel 1 at home](https://blogs.sap.com/?p&#x3D;1233422) (Fri Dec 04 2020)
 - [UTFRW - Unofficial TechEd Fun Run / Walk](https://blogs.sap.com/?p&#x3D;1231125) (Tue Dec 01 2020)
-- [SAP TechEd Developer Keynote DK100 - The Story](https://blogs.sap.com/?p&#x3D;1223486) (Thu Nov 19 2020)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 4](https://www.youtube.com/watch?v&#x3D;TZvH_84vieE) (Fri Nov 20 2020)
