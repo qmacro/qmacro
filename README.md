@@ -21,7 +21,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP TechEd 2020 Channel 1 at home](https://blogs.sap.com/?p&#x3D;1233422) (Fri Dec 04 2020)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Developer Keynote - Getting set up!](https://www.youtube.com/watch?v&#x3D;9Q-84fxe0Jg) (Tue Jan 05 2021)
+- [Developer Keynote - Getting set up!](https://www.youtube.com/watch?v&#x3D;9Q-84fxe0Jg) (Fri Jan 15 2021)
 - [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 4](https://www.youtube.com/watch?v&#x3D;TZvH_84vieE) (Fri Nov 20 2020)
 - [Generating Enterprise Messaging artifact graphs with shell scripting and Graphviz - Part 3](https://www.youtube.com/watch?v&#x3D;S6PcnXYF3wI) (Fri Nov 13 2020)
 
