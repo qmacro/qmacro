@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Case modification operators in parameter substitution](https://qmacro.org/autodidactics/2020/10/16/case-modification-operators/) (Fri Oct 16 2020)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [Thoughts on video content](http://qmacro.org/2021/02/02/thoughts-on-video-content/) (Tue Feb 02 2021)
 - [Do less and do it better](http://qmacro.org/2021/02/01/do-less-and-do-it-better/) (Mon Feb 01 2021)
 - [Columnar layout with AWK](http://qmacro.org/2021/01/26/columnar-layout-with-awk/) (Tue Jan 26 2021)
-- [The myriad meanings of pwd in Unix systems](http://qmacro.org/2020/11/08/the-meaning-of-pwd-in-unix-systems/) (Sun Nov 08 2020)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [From Classics to Developer Advocate](https://blogs.sap.com/?p&#x3D;1251966) (Thu Jan 07 2021)
