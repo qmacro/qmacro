@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [fzf - the basics part 2 - search results](https://qmacro.org/autodidactics/2021/02/07/fzf-the-basics-2-search-results/) (Sun Feb 07 2021)
 - [fzf - the basics part 1 - layout](https://qmacro.org/autodidactics/2021/02/02/fzf-the-basics-1-layout/) (Tue Feb 02 2021)
 - [Waiting for jobs, and the concept of the shell](https://qmacro.org/autodidactics/2020/12/28/waiting-for-jobs/) (Mon Dec 28 2020)
-- [Implicit values in Bash for loop construct](https://qmacro.org/autodidactics/2020/12/03/implicit-values-in-bash-for-loop/) (Thu Dec 03 2020)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [Thoughts on video content](http://qmacro.org/2021/02/02/thoughts-on-video-content/) (Tue Feb 02 2021)
