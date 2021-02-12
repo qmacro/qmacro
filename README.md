@@ -21,7 +21,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP TechEd 2020 Channel 1 at home](https://blogs.sap.com/2020/12/04/sap-teched-2020-channel-1-at-home/) (Fri Dec 04 2020)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Developer Keynote - SANDBOX component part 2 - CF &amp; K8S](https://www.youtube.com/watch?v&#x3D;yYeiTs4AC_U) (Mon Feb 08 2021)
+- [Developer Keynote - SANDBOX component part 2 - CF &amp; K8S](https://www.youtube.com/watch?v&#x3D;yYeiTs4AC_U) (Fri Feb 12 2021)
 - [Developer Keynote - SANDBOX component](https://www.youtube.com/watch?v&#x3D;lxtWeKR2kaM) (Fri Feb 05 2021)
 - [Developer Keynote - Message Bus component](https://www.youtube.com/watch?v&#x3D;0-b-V5vd14Y) (Fri Jan 29 2021)
 
