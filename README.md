@@ -17,7 +17,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [From Classics to Developer Advocate](https://blogs.sap.com/?p&#x3D;1251966) (Thu Jan 07 2021)
-- [Updating your fork of the Developer Keynote repository](https://blogs.sap.com/2021/01/06/updating-your-developer-keynote-repo-fork/) (Wed Jan 06 2021)
+- [Updating your fork of the Developer Keynote repository](https://blogs.sap.com/?p&#x3D;1251735) (Wed Jan 06 2021)
 - [SAP TechEd 2020 Channel 1 at home](https://blogs.sap.com/2020/12/04/sap-teched-2020-channel-1-at-home/) (Fri Dec 04 2020)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
