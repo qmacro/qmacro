@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Columnar layout with AWK](http://qmacro.org/2021/01/26/columnar-layout-with-awk/) (Tue Jan 26 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [SAP TechEd Developer Keynote - Info Central](https://blogs.sap.com/?p&#x3D;1283569) (Tue Feb 23 2021)
 - [SAP Tech Bytes: Approuter User API Service](https://blogs.sap.com/?p&#x3D;1281120) (Sat Feb 20 2021)
 - [From Classics to Developer Advocate](https://blogs.sap.com/?p&#x3D;1251966) (Thu Jan 07 2021)
-- [Updating your fork of the Developer Keynote repository](https://blogs.sap.com/?p&#x3D;1251735) (Wed Jan 06 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Developer Keynote - EMITTER component](https://www.youtube.com/watch?v&#x3D;dq-PSlUun6g) (Fri Feb 19 2021)
