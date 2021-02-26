@@ -22,8 +22,8 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Developer Keynote - EMITTER component](https://www.youtube.com/watch?v&#x3D;dq-PSlUun6g) (Fri Feb 19 2021)
+- [Developer Keynote - GitHub Actions](https://www.youtube.com/watch?v&#x3D;THdTT5UdDnY) (Fri Feb 19 2021)
 - [Developer Keynote - SANDBOX component part 2 - CF &amp; K8S](https://www.youtube.com/watch?v&#x3D;yYeiTs4AC_U) (Fri Feb 12 2021)
-- [Developer Keynote - SANDBOX component](https://www.youtube.com/watch?v&#x3D;lxtWeKR2kaM) (Fri Feb 05 2021)
 
 **Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [HandsOnSAPDev Ep.81 - Growing functions in JS from reduce() upwards](https://www.youtube.com/watch?v&#x3D;4BptIHoRDAk) (Fri Jul 24 2020)
