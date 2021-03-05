@@ -21,7 +21,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [From Classics to Developer Advocate](https://blogs.sap.com/?p&#x3D;1251966) (Thu Jan 07 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Developer Keynote - BRAIN component - part 1](https://www.youtube.com/watch?v&#x3D;wdn0F-VDNCc) (Mon Mar 01 2021)
+- [Developer Keynote - BRAIN component - part 1](https://www.youtube.com/watch?v&#x3D;wdn0F-VDNCc) (Fri Mar 05 2021)
 - [Developer Keynote - GitHub Actions](https://www.youtube.com/watch?v&#x3D;THdTT5UdDnY) (Fri Feb 26 2021)
 - [Developer Keynote - EMITTER component](https://www.youtube.com/watch?v&#x3D;dq-PSlUun6g) (Fri Feb 19 2021)
 
