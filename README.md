@@ -36,7 +36,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [ES6, reduce and pipe](http://langram.org/2019/04/08/es6-reduce-and-pipe/) (Mon Apr 08 2019)
 
 **Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
-- [The User Interface - from The UNIX Time-sharing SystemA Retrospective](https://anchor.fm/tech-aloud/episodes/The-User-Interface---from-The-UNIX-Time-sharing-SystemA-Retrospective-eku7oa) (Mon Oct 12 2020)
+- [The User Interface - from The UNIX Time-sharing System - A Retrospective](https://anchor.fm/tech-aloud/episodes/The-User-Interface---from-The-UNIX-Time-sharing-System---A-Retrospective-eku7oa) (Mon Oct 12 2020)
 - [CAP is important because it’s not important - 6 Nov 2019 - DJ Adams](https://anchor.fm/tech-aloud/episodes/CAP-is-important-because-its-not-important---6-Nov-2019---DJ-Adams-e8rg7s) (Wed Nov 06 2019)
 - [12 Factor Apps in Plain English - Will Koffel - 14 Jan 2014](https://anchor.fm/tech-aloud/episodes/12-Factor-Apps-in-Plain-English---Will-Koffel---14-Jan-2014-e863pc) (Fri Oct 25 2019)
 
