@@ -35,8 +35,6 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [The Observer&#x27;s Book of JS Style](http://langram.org/2019/07/18/observers-book-of-js-style/) (Thu Jul 18 2019)
 - [ES6, reduce and pipe](http://langram.org/2019/04/08/es6-reduce-and-pipe/) (Mon Apr 08 2019)
 
-<a name="techaloud"></a>
-
 **Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
 - [Monday morning thoughts: OData - DJ Adams](https://anchor.fm/tech-aloud/episodes/Monday-morning-thoughts-OData---DJ-Adams-et0aot) (Fri Mar 19 2021)
 - [The User Interface - from The UNIX Time-sharing System - A Retrospective](https://anchor.fm/tech-aloud/episodes/The-User-Interface---from-The-UNIX-Time-sharing-System---A-Retrospective-eku7oa) (Mon Oct 12 2020)
