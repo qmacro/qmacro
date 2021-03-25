@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [fzf - the basics part 1 - layout](https://qmacro.org/autodidactics/2021/02/02/fzf-the-basics-1-layout/) (Tue Feb 02 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [A new journal experiment - Thinking Aloud](http://qmacro.org/2021/03/25/a-new-journal-experiment-thinking-aloud/) (Thu Mar 25 2021)
 - [Thoughts on video content](http://qmacro.org/2021/02/02/thoughts-on-video-content/) (Tue Feb 02 2021)
 - [Do less and do it better](http://qmacro.org/2021/02/01/do-less-and-do-it-better/) (Mon Feb 01 2021)
-- [Columnar layout with AWK](http://qmacro.org/2021/01/26/columnar-layout-with-awk/) (Tue Jan 26 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [SAP TechEd Developer Keynote - Info Central](https://blogs.sap.com/?p&#x3D;1283569) (Tue Feb 23 2021)
