@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Mass deletion of GitHub Actions workflow runs](https://qmacro.org/autodidactics/2021/03/26/mass-deletion-of-github-actions-workflow-runs/) (Fri Mar 26 2021)
 - [Aborting a script with parameter expansion](https://qmacro.org/autodidactics/2021/03/15/aborting-a-script-with-parameter-expansion/) (Mon Mar 15 2021)
 - [fzf - the basics part 2 - search results](https://qmacro.org/autodidactics/2021/02/07/fzf-the-basics-2-search-results/) (Sun Feb 07 2021)
-- [fzf - the basics part 1 - layout](https://qmacro.org/autodidactics/2021/02/02/fzf-the-basics-1-layout/) (Tue Feb 02 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [A new journal experiment - Thinking Aloud](http://qmacro.org/2021/03/25/a-new-journal-experiment-thinking-aloud/) (Thu Mar 25 2021)
