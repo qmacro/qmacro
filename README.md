@@ -26,9 +26,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Developer Keynote - BRAIN component - part 1](https://www.youtube.com/watch?v&#x3D;wdn0F-VDNCc) (Fri Mar 05 2021)
 
 **Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
-- [HandsOnSAPDev Ep.81 - Growing functions in JS from reduce() upwards](https://www.youtube.com/watch?v&#x3D;4BptIHoRDAk) (Fri Jul 24 2020)
-- [HandsOnSAPDev Ep.80 - Workflow on SAP Cloud Platform - Boosters, App Studio and more](https://www.youtube.com/watch?v&#x3D;Pn0pk0L0s_o) (Fri Jul 17 2020)
-- [HandsOnSAPDev Ep.79 - A first look at the Core Service APIs for SAP Cloud Platform](https://www.youtube.com/watch?v&#x3D;yY3pXcw4e7c) (Fri Jul 10 2020)
+- [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
+- [III - Finding the Raspberry Pis on the network](https://www.youtube.com/watch?v&#x3D;hx7DB7Iqslk) (Wed Jun 17 2020)
+- [II - Preparing the OS image for Raspberry Pis in a cluster](https://www.youtube.com/watch?v&#x3D;IY5ZNZDI-EQ) (Fri Jun 12 2020)
 
 **Latest posts from [langram.org](https://langram.org)**
 - [Shell power and simplicity](http://langram.org/2019/10/23/shell-power-simplicity/) (Wed Oct 23 2019)
