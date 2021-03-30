@@ -5,6 +5,11 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
+**Latest journal entries from [Thinking Aloud](https://github.com/qmacro/thinking-aloud)**
+- [2021-03-25 16:39:40 I love the &quot;Today I Learned&quot; (TIL) idea, and even …](https://github.com/qmacro/thinking-aloud/issues/13)
+- [2021-03-25 12:09:25 What else do I need for the basic setup of my jour…](https://github.com/qmacro/thinking-aloud/issues/9)
+- [2021-03-25 09:53:26 Some thoughts on learning, and how I pick the topi…](https://github.com/qmacro/thinking-aloud/issues/7)
+
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
 - [Two-phase video uploads with YouTube API and curl](https://qmacro.org/autodidactics/2021/03/30/two-phase-video-uploads-with-youtube-api/) (Tue Mar 30 2021)
 - [Mass deletion of GitHub Actions workflow runs](https://qmacro.org/autodidactics/2021/03/26/mass-deletion-of-github-actions-workflow-runs/) (Fri Mar 26 2021)
@@ -25,7 +30,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Developer Keynote - BRAIN component - part 2](https://www.youtube.com/watch?v&#x3D;SpBnnCJHAwM) (Fri Mar 12 2021)
 - [Developer Keynote - BRAIN component - part 1](https://www.youtube.com/watch?v&#x3D;wdn0F-VDNCc) (Fri Mar 05 2021)
 
-**Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
+**Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
 - [III - Finding the Raspberry Pis on the network](https://www.youtube.com/watch?v&#x3D;hx7DB7Iqslk) (Wed Jun 17 2020)
 - [II - Preparing the OS image for Raspberry Pis in a cluster](https://www.youtube.com/watch?v&#x3D;IY5ZNZDI-EQ) (Fri Jun 12 2020)
