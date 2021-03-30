@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Two-phase video uploads with YouTube API and curl](https://qmacro.org/autodidactics/2021/03/30/two-phase-video-uploads-with-youtube-api/) (Tue Mar 30 2021)
 - [Mass deletion of GitHub Actions workflow runs](https://qmacro.org/autodidactics/2021/03/26/mass-deletion-of-github-actions-workflow-runs/) (Fri Mar 26 2021)
 - [Aborting a script with parameter expansion](https://qmacro.org/autodidactics/2021/03/15/aborting-a-script-with-parameter-expansion/) (Mon Mar 15 2021)
-- [fzf - the basics part 2 - search results](https://qmacro.org/autodidactics/2021/02/07/fzf-the-basics-2-search-results/) (Sun Feb 07 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [La Pavoni maintenance successful](http://qmacro.org/2021/03/27/la-pavoni-maintenance-successful/) (Sat Mar 27 2021)
