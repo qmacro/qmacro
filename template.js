@@ -5,6 +5,10 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
+**Latest journal entries from [Thinking Aloud](https://github.com/qmacro/thinking-aloud)**
+{{#thinkingaloud}}- [{{_title}} {{_excerpt}}]({{_link}})
+{{/thinkingaloud}}
+
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
 {{#autodidactics}}- [{{_title}}]({{_link}}) ({{_date}})
 {{/autodidactics}}
@@ -21,7 +25,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 {{#ytsapdevs}}- [{{_title}}]({{_link}}) ({{_date}})
 {{/ytsapdevs}}
 
-**Latest live streams and videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
+**Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 {{#ytqmacro}}- [{{_title}}]({{_link}}) ({{_date}})
 {{/ytqmacro}}
 
