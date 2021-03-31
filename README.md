@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Aborting a script with parameter expansion](https://qmacro.org/autodidactics/2021/03/15/aborting-a-script-with-parameter-expansion/) (Mon Mar 15 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [Deeper connections to everyday tools](http://qmacro.org/2021/03/31/deeper-connections-to-everyday-tools/) (Wed Mar 31 2021)
 - [La Pavoni maintenance successful](http://qmacro.org/2021/03/27/la-pavoni-maintenance-successful/) (Sat Mar 27 2021)
 - [A new journal experiment - Thinking Aloud](http://qmacro.org/2021/03/25/a-new-journal-experiment-thinking-aloud/) (Thu Mar 25 2021)
-- [Thoughts on video content](http://qmacro.org/2021/02/02/thoughts-on-video-content/) (Tue Feb 02 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [SAP TechEd Developer Keynote - Info Central](https://blogs.sap.com/?p&#x3D;1283569) (Tue Feb 23 2021)
