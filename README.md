@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [2021-03-25 09:53:26 Some thoughts on learning, and how I pick the topi…](https://github.com/qmacro/thinking-aloud/issues/7)
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [New tmux panes and windows in the right directory](https://qmacro.org/autodidactics/2021/04/01/new-tmux-panes-and-windows-in-right-dir/) (Thu Apr 01 2021)
 - [Two-phase video uploads with YouTube API and curl](https://qmacro.org/autodidactics/2021/03/30/two-phase-video-uploads-with-youtube-api/) (Tue Mar 30 2021)
 - [Mass deletion of GitHub Actions workflow runs](https://qmacro.org/autodidactics/2021/03/26/mass-deletion-of-github-actions-workflow-runs/) (Fri Mar 26 2021)
-- [Aborting a script with parameter expansion](https://qmacro.org/autodidactics/2021/03/15/aborting-a-script-with-parameter-expansion/) (Mon Mar 15 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [Deeper connections to everyday tools](http://qmacro.org/2021/03/31/deeper-connections-to-everyday-tools/) (Wed Mar 31 2021)
