@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest journal entries from [Thinking Aloud](https://github.com/qmacro/thinking-aloud)**
+- [2021-04-09 13:17:08 I&#x27;ve been thinking about field naming conventions …](https://github.com/qmacro/thinking-aloud/issues/19)
 - [2021-04-07 16:27:58 One consequence of using repo issues for journal e…](https://github.com/qmacro/thinking-aloud/issues/18)
 - [2021-04-07 09:04:01 Does it make sense to create a workflow to clean u…](https://github.com/qmacro/thinking-aloud/issues/15)
-- [2021-03-25 16:39:40 I love the &quot;Today I Learned&quot; (TIL) idea, and even …](https://github.com/qmacro/thinking-aloud/issues/13)
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
 - [New tmux panes and windows in the right directory](https://qmacro.org/autodidactics/2021/04/01/new-tmux-panes-and-windows-in-right-dir/) (Thu Apr 01 2021)
