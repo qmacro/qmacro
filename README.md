@@ -6,14 +6,14 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest journal entries from [Thinking Aloud](https://github.com/qmacro/thinking-aloud)**
-- [2021-04-09 13:17:08 I&#x27;ve been thinking about field naming conventions …](https://github.com/qmacro/thinking-aloud/issues/19)
-- [2021-04-07 16:27:58 One consequence of using repo issues for journal e…](https://github.com/qmacro/thinking-aloud/issues/18)
-- [2021-04-07 09:04:01 Does it make sense to create a workflow to clean u…](https://github.com/qmacro/thinking-aloud/issues/15)
+- [2021-04-09 13:17:08 I&#x27;ve been thinking about field naming conventions … I&#x27;ve been thinking about field naming conventions …](https://github.com/qmacro/thinking-aloud/issues/19)
+- [2021-04-07 16:27:58 One consequence of using repo issues for journal e… One consequence of using repo issues for journal e…](https://github.com/qmacro/thinking-aloud/issues/18)
+- [2021-04-07 09:04:01 Does it make sense to create a workflow to clean u… Does it make sense to create a workflow to clean u…](https://github.com/qmacro/thinking-aloud/issues/15)
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Producing JSON with jq for appending issue titles](https://qmacro.org/autodidactics/2021/04/13/producing-json-with-jq-for-appending-issue-titles/) (Tue Apr 13 2021)
 - [New tmux panes and windows in the right directory](https://qmacro.org/autodidactics/2021/04/01/new-tmux-panes-and-windows-in-right-dir/) (Thu Apr 01 2021)
 - [Two-phase video uploads with YouTube API and curl](https://qmacro.org/autodidactics/2021/03/30/two-phase-video-uploads-with-youtube-api/) (Tue Mar 30 2021)
-- [Mass deletion of GitHub Actions workflow runs](https://qmacro.org/autodidactics/2021/03/26/mass-deletion-of-github-actions-workflow-runs/) (Fri Mar 26 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [Mainframes, SDSF and GitHub Actions](http://qmacro.org/2021/04/04/mainframes,-sdsf-and-github-actions/) (Sun Apr 04 2021)
