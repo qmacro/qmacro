@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Two-phase video uploads with YouTube API and curl](https://qmacro.org/autodidactics/2021/03/30/two-phase-video-uploads-with-youtube-api/) (Tue Mar 30 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [GitHub Actions workflow browser](http://qmacro.org/2021/04/24/github-actions-workflow-browser/) (Sat Apr 24 2021)
 - [Mainframes, SDSF and GitHub Actions](http://qmacro.org/2021/04/04/mainframes,-sdsf-and-github-actions/) (Sun Apr 04 2021)
 - [Deeper connections to everyday tools](http://qmacro.org/2021/03/31/deeper-connections-to-everyday-tools/) (Wed Mar 31 2021)
-- [La Pavoni maintenance successful](http://qmacro.org/2021/03/27/la-pavoni-maintenance-successful/) (Sat Mar 27 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [SAP Tech Bytes: Exploring SAP-samples with gh and fzf](https://blogs.sap.com/?p&#x3D;1311682) (Tue Apr 06 2021)
