@@ -26,9 +26,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP Tech Bytes: Approuter User API Service](https://blogs.sap.com/?p&#x3D;1281120) (Sat Feb 20 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Developer Keynote - FRONTEND component](https://www.youtube.com/watch?v&#x3D;dmazQE90qLs) (Fri Apr 23 2021)
+- [Developer Keynote - CHARITY component](https://www.youtube.com/watch?v&#x3D;Q98BvpH0cKc) (Fri Apr 09 2021)
 - [Developer Keynote - CONVERTER component](https://www.youtube.com/watch?v&#x3D;ksKrttRqoik) (Fri Mar 19 2021)
-- [Developer Keynote - BRAIN component - part 2](https://www.youtube.com/watch?v&#x3D;SpBnnCJHAwM) (Fri Mar 12 2021)
-- [Developer Keynote - BRAIN component - part 1](https://www.youtube.com/watch?v&#x3D;wdn0F-VDNCc) (Fri Mar 05 2021)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
