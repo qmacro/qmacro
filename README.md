@@ -16,7 +16,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [New tmux panes and windows in the right directory](https://qmacro.org/autodidactics/2021/04/01/new-tmux-panes-and-windows-in-right-dir/) (Thu Apr 01 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
-- [Solving the unrendered markdown headings](http://qmacro.org/2021/05/10/solving-the-unrendered-markdown-headings/) (Mon May 10 2021)
+- [Solving mysterious unrendered markdown headings](http://qmacro.org/2021/05/10/solving-the-unrendered-markdown-headings/) (Mon May 10 2021)
 - [GitHub Actions workflow browser](http://qmacro.org/2021/04/24/github-actions-workflow-browser/) (Sat Apr 24 2021)
 - [Mainframes, SDSF and GitHub Actions](http://qmacro.org/2021/04/04/mainframes,-sdsf-and-github-actions/) (Sun Apr 04 2021)
 
