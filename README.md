@@ -21,9 +21,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Notes on Markdown linting - part 1](http://qmacro.org/2021/05/13/notes-on-markdown-linting-1/) (Thu May 13 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [Introducing the Open Documentation Initiative](https://blogs.sap.com/?p&#x3D;1337764) (Thu May 20 2021)
 - [SAP Tech Bytes: Exploring SAP-samples with gh and fzf](https://blogs.sap.com/?p&#x3D;1311682) (Tue Apr 06 2021)
 - [SAP TechEd Developer Keynote - Info Central](https://blogs.sap.com/?p&#x3D;1283569) (Tue Feb 23 2021)
-- [SAP Tech Bytes: Approuter User API Service](https://blogs.sap.com/?p&#x3D;1281120) (Sat Feb 20 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Developer Keynote - FRONTEND component](https://www.youtube.com/watch?v&#x3D;dmazQE90qLs) (Fri Apr 23 2021)
