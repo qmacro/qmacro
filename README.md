@@ -21,14 +21,14 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Supporting developers with sponsorship](http://qmacro.org/2021/05/19/supporting-developers-with-sponsorship/) (Wed May 19 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [Collaboration missions for the Open Documentation Initiative](https://blogs.sap.com/?p&#x3D;1343390) (Thu May 27 2021)
 - [Introducing the Open Documentation Initiative](https://blogs.sap.com/?p&#x3D;1337764) (Thu May 20 2021)
 - [SAP Tech Bytes: Exploring SAP-samples with gh and fzf](https://blogs.sap.com/?p&#x3D;1311682) (Tue Apr 06 2021)
-- [SAP TechEd Developer Keynote - Info Central](https://blogs.sap.com/?p&#x3D;1283569) (Tue Feb 23 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Introducing the Open Documentation Initiative](https://www.youtube.com/watch?v&#x3D;x7dbOpsquSg) (Tue May 18 2021)
 - [Developer Keynote - FRONTEND component](https://www.youtube.com/watch?v&#x3D;dmazQE90qLs) (Fri Apr 23 2021)
 - [Developer Keynote - CHARITY component](https://www.youtube.com/watch?v&#x3D;Q98BvpH0cKc) (Fri Apr 09 2021)
-- [Developer Keynote - CONVERTER component](https://www.youtube.com/watch?v&#x3D;ksKrttRqoik) (Fri Mar 19 2021)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
