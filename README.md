@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [New tmux panes and windows in the right directory](https://qmacro.org/autodidactics/2021/04/01/new-tmux-panes-and-windows-in-right-dir/) (Thu Apr 01 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [Remote access to Docker on my Synology NAS](http://qmacro.org/2021/06/12/remote-access-to-docker-on-my-synology-nas/) (Sat Jun 12 2021)
 - [Adding a drive to my Synology NAS](http://qmacro.org/2021/05/22/adding-a-drive-to-my-synology-nas/) (Sat May 22 2021)
 - [Equality in tech](http://qmacro.org/2021/05/20/equality-in-tech/) (Thu May 20 2021)
-- [Supporting developers with sponsorship](http://qmacro.org/2021/05/19/supporting-developers-with-sponsorship/) (Wed May 19 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Collaboration missions for the Open Documentation Initiative](https://blogs.sap.com/?p&#x3D;1343390) (Thu May 27 2021)
