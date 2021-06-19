@@ -26,9 +26,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP Tech Bytes: Exploring SAP-samples with gh and fzf](https://blogs.sap.com/?p&#x3D;1311682) (Tue Apr 06 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Open Working](https://www.youtube.com/watch?v&#x3D;TG4mWXPrzh0) (Fri Jun 18 2021)
 - [Open Working](https://www.youtube.com/watch?v&#x3D;0XlzLq9_om0) (Fri Jun 11 2021)
 - [GitHub mechanics for the Open Documentation Initiative](https://www.youtube.com/watch?v&#x3D;2INqXNYLA0w) (Fri Jun 04 2021)
-- [Introducing the Open Documentation Initiative](https://www.youtube.com/watch?v&#x3D;x7dbOpsquSg) (Fri May 28 2021)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
