@@ -26,7 +26,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP Tech Bytes: Exploring SAP-samples with gh and fzf](https://blogs.sap.com/?p&#x3D;1311682) (Tue Apr 06 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Exploring SAP Graph together - Part 3](https://www.youtube.com/watch?v&#x3D;oGuFmha-KNE) (Mon Jul 12 2021)
+- [Exploring SAP Graph together - Part 3](https://www.youtube.com/watch?v&#x3D;oGuFmha-KNE) (Fri Jul 16 2021)
 - [Exploring SAP Graph together - Part 2](https://www.youtube.com/watch?v&#x3D;1Ba4YAFl-Z8) (Fri Jul 09 2021)
 - [Exploring SAP Graph together - Part 1](https://www.youtube.com/watch?v&#x3D;0zgsY7QXoyQ) (Fri Jul 02 2021)
 
