@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [2021-04-09 13:17:08 I&#x27;ve been thinking about field naming conventions …](https://github.com/qmacro/thinking-aloud/issues/19)
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Reopening pull requests and GITHUB_ACTOR](https://qmacro.org/autodidactics/2021/07/26/reopening-pull-requests-and-github_actor/) (Mon Jul 26 2021)
 - [Unpacking Bash shell tips from a GitHub Actions workflow](https://qmacro.org/autodidactics/2021/04/28/unpacking-tips/) (Wed Apr 28 2021)
 - [Producing JSON with jq for appending issue titles](https://qmacro.org/autodidactics/2021/04/13/producing-json-with-jq-for-appending-issue-titles/) (Tue Apr 13 2021)
-- [New tmux panes and windows in the right directory](https://qmacro.org/autodidactics/2021/04/01/new-tmux-panes-and-windows-in-right-dir/) (Thu Apr 01 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [Unix tooling - join, don&#x27;t extend](http://qmacro.org/2021/07/21/unix-tooling-join,-don&#x27;t-extend/) (Wed Jul 21 2021)
