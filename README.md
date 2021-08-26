@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [tmux output formatting](https://qmacro.org/autodidactics/2021/08/06/tmux-output-formatting/) (Fri Aug 06 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [Learning by rewriting - bash, jq and fzf details](http://qmacro.org/2021/08/26/learning-by-rewriting/) (Thu Aug 26 2021)
 - [Unix tooling - join, don&#x27;t extend](http://qmacro.org/2021/07/21/unix-tooling-join,-don&#x27;t-extend/) (Wed Jul 21 2021)
 - [Early thoughts on Warp](http://qmacro.org/2021/07/20/early-thoughts-on-warp/) (Tue Jul 20 2021)
-- [The APC SMT750IC UPS works with the Synology NAS DS1621+](http://qmacro.org/2021/06/14/the-apc-smt750ic-ups-works-with-the-synology-nas-ds1621+/) (Mon Jun 14 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Collaboration missions for the Open Documentation Initiative](https://blogs.sap.com/?p&#x3D;1343390) (Thu May 27 2021)
