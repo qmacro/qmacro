@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [2021-07-26 07:08:57 I listened to a @betatalksnl podcast on a walk this morning …](https://github.com/qmacro/thinking-aloud/issues/26)
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Exploring fff part 1 - main](https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/) (Fri Sep 03 2021)
 - [Today&#x27;s TIL trio](https://qmacro.org/autodidactics/2021/08/22/today&#x27;s-til-trio/) (Sun Aug 22 2021)
 - [Session switching with the tmux menu](https://qmacro.org/autodidactics/2021/08/12/session-switching-with-the-tmux-menu/) (Thu Aug 12 2021)
-- [tmux output formatting](https://qmacro.org/autodidactics/2021/08/06/tmux-output-formatting/) (Fri Aug 06 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [Learning by rewriting - bash, jq and fzf details](http://qmacro.org/2021/08/26/learning-by-rewriting/) (Thu Aug 26 2021)
