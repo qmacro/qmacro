@@ -21,9 +21,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Early thoughts on Warp](http://qmacro.org/2021/07/20/early-thoughts-on-warp/) (Tue Jul 20 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [SAP Tech Bytes: btp CLI - managing configuration](https://blogs.sap.com/?p&#x3D;1404163) (Tue Sep 14 2021)
 - [SAP Tech Bytes: btp CLI – logging in](https://blogs.sap.com/?p&#x3D;1400128) (Tue Sep 07 2021)
 - [SAP Tech Bytes: btp CLI - installation](https://blogs.sap.com/?p&#x3D;1396954) (Wed Sep 01 2021)
-- [Collaboration missions for the Open Documentation Initiative](https://blogs.sap.com/?p&#x3D;1343390) (Thu May 27 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Exploring SAP Graph together - Part 5](https://www.youtube.com/watch?v&#x3D;j3VAP1vIq4s) (Fri Jul 30 2021)
