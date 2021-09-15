@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [2021-07-26 07:08:57 I listened to a @betatalksnl podcast on a walk this morning …](https://github.com/qmacro/thinking-aloud/issues/26)
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Using functions more](https://qmacro.org/autodidactics/2021/09/15/using-functions-more/) (Wed Sep 15 2021)
 - [Improving shell fu with practice](https://qmacro.org/autodidactics/2021/09/13/improving-shell-fu-with-practice/) (Mon Sep 13 2021)
 - [Exploring fff part 1 - main](https://qmacro.org/autodidactics/2021/09/03/exploring-fff-part-1-main/) (Fri Sep 03 2021)
-- [Today&#x27;s TIL trio](https://qmacro.org/autodidactics/2021/08/22/today&#x27;s-til-trio/) (Sun Aug 22 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [Learning by rewriting - bash, jq and fzf details](http://qmacro.org/2021/08/26/learning-by-rewriting/) (Thu Aug 26 2021)
