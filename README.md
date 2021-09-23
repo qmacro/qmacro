@@ -28,7 +28,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Getting started with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v&#x3D;mhk6Kot-Ays) (Fri Sep 10 2021)
 - [Exploring SAP Graph together - Part 5](https://www.youtube.com/watch?v&#x3D;j3VAP1vIq4s) (Fri Jul 30 2021)
-- [Exploring SAP Graph together - Part 3](https://www.youtube.com/watch?v&#x3D;oGuFmha-KNE) (Fri Jul 16 2021)
+- [Exploring SAP Graph together - Part 4](https://www.youtube.com/watch?v&#x3D;4Dhg5WCQUNo) (Fri Jul 23 2021)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
