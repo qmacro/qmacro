@@ -26,9 +26,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP Tech Bytes: btp CLI – logging in](https://blogs.sap.com/?p&#x3D;1400128) (Tue Sep 07 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Scripting and JSON output with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v&#x3D;xRmHZGk4QCU) (Mon Sep 27 2021)
+- [Logging in and configuration with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v&#x3D;jN_4J8tmmTo) (Fri Sep 24 2021)
 - [Getting started with btp, the SAP Business Technology Platform CLI](https://www.youtube.com/watch?v&#x3D;mhk6Kot-Ays) (Fri Sep 10 2021)
-- [Exploring SAP Graph together - Part 5](https://www.youtube.com/watch?v&#x3D;j3VAP1vIq4s) (Fri Jul 30 2021)
-- [Exploring SAP Graph together - Part 4](https://www.youtube.com/watch?v&#x3D;4Dhg5WCQUNo) (Fri Jul 23 2021)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
