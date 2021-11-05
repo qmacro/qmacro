@@ -6,7 +6,7 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest journal entries from [Thinking Aloud](https://github.com/qmacro/thinking-aloud)**
-- [2021-11-05 09:50:15 Test 2](https://github.com/qmacro/thinking-aloud/issues/32)
+- [2021-11-05 10:39:42 Starting my journey to Frankfurt for SAP TechEd](https://github.com/qmacro/thinking-aloud/issues/33)
 - [2021-08-09 11:51:29 Demo journal creation in tmux popup](https://github.com/qmacro/thinking-aloud/issues/30)
 - [2021-08-08 21:28:34 Revisiting my tmux workflow and journalling](https://github.com/qmacro/thinking-aloud/issues/28)
 
