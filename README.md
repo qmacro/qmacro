@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [2021-08-08 21:28:34 Revisiting my tmux workflow and journalling](https://github.com/qmacro/thinking-aloud/issues/28)
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Exploring fff part 2 - get_ls_colors](https://qmacro.org/autodidactics/2021/11/07/exploring-fff-part-2-get-ls-colors/) (Sun Nov 07 2021)
 - [Embracing jq and JSON](https://qmacro.org/autodidactics/2021/10/29/embracing-jq-and-json/) (Fri Oct 29 2021)
 - [Sourcing vs executing in Bash](https://qmacro.org/autodidactics/2021/10/14/sourcing-vs-executing-in-bash/) (Thu Oct 14 2021)
-- [(WIP) Exploring fff part 2 - get_ls_colors](https://qmacro.org/autodidactics/2021/10/03/exploring-fff-part-2-get-ls-colors/) (Sun Oct 03 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [Learning by rewriting - bash, jq and fzf details](http://qmacro.org/2021/08/26/learning-by-rewriting/) (Thu Aug 26 2021)
