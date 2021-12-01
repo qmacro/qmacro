@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest journal entries from [Thinking Aloud](https://github.com/qmacro/thinking-aloud)**
+- [2021-12-01 08:48:33 Valid JSON and what to call each piece?](https://github.com/qmacro/thinking-aloud/issues/34)
 - [2021-11-05 10:39:42 Starting my journey to Frankfurt for SAP TechEd](https://github.com/qmacro/thinking-aloud/issues/33)
 - [2021-08-09 11:51:29 Demo journal creation in tmux popup](https://github.com/qmacro/thinking-aloud/issues/30)
-- [2021-08-08 21:28:34 Revisiting my tmux workflow and journalling](https://github.com/qmacro/thinking-aloud/issues/28)
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
 - [Exploring fff part 2 - get_ls_colors](https://qmacro.org/autodidactics/2021/11/07/exploring-fff-part-2-get-ls-colors/) (Sun Nov 07 2021)
