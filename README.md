@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Sourcing vs executing in Bash](https://qmacro.org/autodidactics/2021/10/14/sourcing-vs-executing-in-bash/) (Thu Oct 14 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
+- [Setting up hadolint - a Dockerfile linter](http://qmacro.org/2021/12/09/setting-up-hadolint-a-dockerfile-linter/) (Thu Dec 09 2021)
 - [Learning by rewriting - bash, jq and fzf details](http://qmacro.org/2021/08/26/learning-by-rewriting/) (Thu Aug 26 2021)
 - [Unix tooling - join, don&#x27;t extend](http://qmacro.org/2021/07/21/unix-tooling-join,-don&#x27;t-extend/) (Wed Jul 21 2021)
-- [Early thoughts on Warp](http://qmacro.org/2021/07/20/early-thoughts-on-warp/) (Tue Jul 20 2021)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Getting BTP resource GUIDs with the btp CLI – part 2 - JSON and jq](https://blogs.sap.com/?p&#x3D;1450921) (Wed Dec 01 2021)
