@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [2021-11-05 10:39:42 Starting my journey to Frankfurt for SAP TechEd](https://github.com/qmacro/thinking-aloud/issues/33)
 
 **Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
+- [Controlling Chrome from the CLI](https://qmacro.org/autodidactics/2021/12/14/controlling-chrome-from-the-cli/) (Tue Dec 14 2021)
 - [Exploring fff part 2 - get_ls_colors](https://qmacro.org/autodidactics/2021/11/07/exploring-fff-part-2-get-ls-colors/) (Sun Nov 07 2021)
 - [Embracing jq and JSON](https://qmacro.org/autodidactics/2021/10/29/embracing-jq-and-json/) (Fri Oct 29 2021)
-- [Sourcing vs executing in Bash](https://qmacro.org/autodidactics/2021/10/14/sourcing-vs-executing-in-bash/) (Thu Oct 14 2021)
 
 **Latest posts from [qmacro.org](https://qmacro.org)**
 - [Setting up hadolint - a Dockerfile linter](http://qmacro.org/2021/12/09/setting-up-hadolint-a-dockerfile-linter/) (Thu Dec 09 2021)
