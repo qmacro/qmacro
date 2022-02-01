@@ -21,9 +21,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [2021-12-01 08:48:33 Valid JSON and what to call each piece?](https://github.com/qmacro/thinking-aloud/issues/34)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [Boosting tutorial UX with dev containers part 3 - containers into action](https://blogs.sap.com/?p&#x3D;1480348) (Tue Feb 01 2022)
 - [Boosting tutorial UX with dev containers part 2 - embedding prerequisite details](https://blogs.sap.com/?p&#x3D;1480056) (Fri Jan 28 2022)
 - [Boosting tutorial UX with dev containers part 1 - challenge and base solution](https://blogs.sap.com/?p&#x3D;1480051) (Thu Jan 27 2022)
-- [Getting BTP resource GUIDs with the btp CLI – part 2 - JSON and jq](https://blogs.sap.com/?p&#x3D;1450921) (Wed Dec 01 2021)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Fun with SAP BTP Cloud Management Service and Core Services APIs](https://www.youtube.com/watch?v&#x3D;KiPJJHmEbgc) (Fri Jan 28 2022)
