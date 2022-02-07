@@ -26,9 +26,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Boosting tutorial UX with dev containers part 1 - challenge and base solution](https://blogs.sap.com/?p&#x3D;1480051) (Thu Jan 27 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Let&#x27;s explore dev containers with VS Code and Tutorial Navigator content](https://www.youtube.com/watch?v&#x3D;AQ-6qxtAbxk) (Fri Feb 04 2022)
 - [Fun with SAP BTP Cloud Management Service and Core Services APIs](https://www.youtube.com/watch?v&#x3D;KiPJJHmEbgc) (Fri Jan 28 2022)
 - [Developer Keynote btp CLI scripting part 2 - obtaining and parsing JSON output with jq](https://www.youtube.com/watch?v&#x3D;_tQWo2bzFzE) (Fri Jan 21 2022)
-- [Booting our 2022 live stream series with a review of Developer Keynote btp CLI scripting](https://www.youtube.com/watch?v&#x3D;1jekfZJ3fTk) (Fri Jan 14 2022)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
