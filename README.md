@@ -16,7 +16,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP Tech Bytes: btp CLI - new home for configuration](https://blogs.sap.com/?p&#x3D;1492643) (Thu Feb 17 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Exploring SAP Service Manager on SAP Business Technology Platform](https://www.youtube.com/watch?v&#x3D;5_Ns0ihQPD4) (Mon Feb 28 2022)
+- [Exploring SAP Service Manager on SAP Business Technology Platform](https://www.youtube.com/watch?v&#x3D;5_Ns0ihQPD4) (Fri Apr 22 2022)
 - [Introducing ABAP on Exercism - Practice and Improve Your ABAP Skills Online](https://www.youtube.com/watch?v&#x3D;OPnQQS7AIRM) (Tue Apr 05 2022)
 - [Let&#x27;s explore the SAP Community Code Challenge starter project - image editing in SAP UI5!](https://www.youtube.com/watch?v&#x3D;CRUa3Ndp4aU) (Fri Feb 18 2022)
 
