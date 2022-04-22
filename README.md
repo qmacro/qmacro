@@ -3,6 +3,33 @@
 
 I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) at SAP.
 
-I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. I write posts on various topics on my [blog](https://qmacro.org/blog/), so head on over there to see what might take your fancy. I also write posts on the SAP Community under [my current profile](https://people.sap.com/dj.adams.sap#content:blogposts) and there are also some older posts under [my previous profile](https://people.sap.com/dj.adams#content:blogposts) too.
+I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
-Find out more [about me here](https://qmacro.org/about).
+**Latest posts from [qmacro.org](https://qmacro.org/blog/)**
+- [Bot window as command line of the future](https://qmacro.org/blog/posts/2002/04/21/bot-window-as-command-line-of-the-future/) (Sun Apr 21 2002)
+- [Hello Blosxom](https://qmacro.org/blog/posts/2002/04/21/hello-blosxom/) (Sun Apr 21 2002)
+- [Interview on jabber.org](https://qmacro.org/blog/posts/2002/04/21/interview-on-jabber.org/) (Sun Apr 21 2002)
+
+**Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [SAP Community Code Challenge - Results](https://blogs.sap.com/?p&#x3D;1509342) (Fri Mar 18 2022)
+- [Exploring service brokers and service consumption on SAP Business Technology Platform](https://blogs.sap.com/?p&#x3D;1504601) (Tue Mar 08 2022)
+- [SAP Tech Bytes: btp CLI - new home for configuration](https://blogs.sap.com/?p&#x3D;1492643) (Thu Feb 17 2022)
+
+**Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Introducing ABAP on Exercism - Practice and Improve Your ABAP Skills Online](https://www.youtube.com/watch?v&#x3D;OPnQQS7AIRM) (Tue Apr 05 2022)
+- [Exploring SAP Service Manager on SAP Business Technology Platform](https://www.youtube.com/watch?v&#x3D;5_Ns0ihQPD4) (Mon Feb 28 2022)
+- [Let&#x27;s explore the SAP Community Code Challenge starter project - image editing in SAP UI5!](https://www.youtube.com/watch?v&#x3D;CRUa3Ndp4aU) (Fri Feb 18 2022)
+
+**Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
+- [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
+- [III - Finding the Raspberry Pis on the network](https://www.youtube.com/watch?v&#x3D;hx7DB7Iqslk) (Wed Jun 17 2020)
+- [II - Preparing the OS image for Raspberry Pis in a cluster](https://www.youtube.com/watch?v&#x3D;IY5ZNZDI-EQ) (Fri Jun 12 2020)
+
+**Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
+
+Follow me on [Twitter](https://twitter.com/qmacro), subscribe to my [YouTube channel](https://www.youtube.com/djadams-qmacro), read posts on my [personal blog](https://qmacro.org/blog/), and on my [current](https://people.sap.com/dj.adams.sap#content:blogposts) & [previous](https://people.sap.com/dj.adams#content:blogposts) profiles on the [SAP Community](https://community.sap.com).
+
+[![My (early!) CodeWars Kata ranking](https://www.codewars.com/users/qmacro/badges/small)](https://www.codewars.com/users/qmacro)
+
+[![My flair from the Stack Exchange network](https://stackexchange.com/users/flair/162724.png)](https://stackexchange.com/users/162724)
+
