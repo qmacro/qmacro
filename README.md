@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
-- [Bot window as command line of the future](https://qmacro.org/blog/posts/2002/04/21/bot-window-as-command-line-of-the-future/) (Sun Apr 21 2002)
-- [Hello Blosxom](https://qmacro.org/blog/posts/2002/04/21/hello-blosxom/) (Sun Apr 21 2002)
-- [Interview on jabber.org](https://qmacro.org/blog/posts/2002/04/21/interview-on-jabber.org/) (Sun Apr 21 2002)
+- [Bash notes 3](https://qmacro.org/blog/posts/2022/04/17/bash-notes-3/) (Sun Apr 17 2022)
+- [A classic example of yak shaving, and some stream editing](https://qmacro.org/blog/posts/2022/04/15/a-classic-example-of-yak-shaving-and-some-stream-editing/) (Fri Apr 15 2022)
+- [Bash notes 2](https://qmacro.org/blog/posts/2022/04/10/bash-notes-2/) (Sun Apr 10 2022)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [SAP Community Code Challenge - Results](https://blogs.sap.com/?p&#x3D;1509342) (Fri Mar 18 2022)
@@ -16,8 +16,8 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP Tech Bytes: btp CLI - new home for configuration](https://blogs.sap.com/?p&#x3D;1492643) (Thu Feb 17 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Introducing ABAP on Exercism - Practice and Improve Your ABAP Skills Online](https://www.youtube.com/watch?v&#x3D;OPnQQS7AIRM) (Tue Apr 05 2022)
 - [Exploring SAP Service Manager on SAP Business Technology Platform](https://www.youtube.com/watch?v&#x3D;5_Ns0ihQPD4) (Mon Feb 28 2022)
+- [Introducing ABAP on Exercism - Practice and Improve Your ABAP Skills Online](https://www.youtube.com/watch?v&#x3D;OPnQQS7AIRM) (Tue Apr 05 2022)
 - [Let&#x27;s explore the SAP Community Code Challenge starter project - image editing in SAP UI5!](https://www.youtube.com/watch?v&#x3D;CRUa3Ndp4aU) (Fri Feb 18 2022)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
