@@ -15,9 +15,6 @@ const maxItems = 3
 const sources = {
   RSS: {
     qmacro:        'https://qmacro.org/feed.xml',
-    thinkingaloud: 'https://raw.githubusercontent.com/qmacro/thinking-aloud/main/feed.xml',
-    autodidactics: 'https://qmacro.org/autodidactics/feed.xml',
-    langram:       'https://langram.org/feed.xml',
     ytqmacro:      'https://www.youtube.com/feeds/videos.xml?channel_id=UCDUgrP3koL_o2iz6m55H1uA',
     ytsapdevs:     'https://www.youtube.com/feeds/videos.xml?playlist_id=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb',
     techaloud:     'https://anchor.fm/s/e5dc36c/podcast/rss',
@@ -55,18 +52,11 @@ const main = async () => {
   try {
     const feeds = {}
     feeds.qmacro = await latestRSS(sources.RSS.qmacro)
-    feeds.thinkingaloud = await latestRSS(sources.RSS.thinkingaloud)
-    feeds.autodidactics = await latestRSS(sources.RSS.autodidactics)
-    feeds.langram = await latestRSS(sources.RSS.langram)
     feeds.ytqmacro = await latestRSS(sources.RSS.ytqmacro)
     feeds.ytsapdevs = await latestRSS(sources.RSS.ytsapdevs)
-    feeds.techaloud = await latestRSS(sources.RSS.techaloud)
     feeds.sap = await latestRSS(sources.RSS.sap)
     console.log(template({
       qmacro: feeds.qmacro,
-      thinkingaloud: feeds.thinkingaloud,
-      autodidactics: feeds.autodidactics,
-      langram: feeds.langram,
       ytqmacro: feeds.ytqmacro,
       ytsapdevs: feeds.ytsapdevs,
       techaloud: feeds.techaloud,

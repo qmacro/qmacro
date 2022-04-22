@@ -1,21 +1,13 @@
 module.exports = `
 ### Hi there 👋
 
-I'm a [Developer Advocate](https://developers.sap.com/) at SAP.
+I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) at SAP.
 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
-**Latest posts from [qmacro.org](https://qmacro.org)**
+**Latest posts from [qmacro.org](https://qmacro.org/blog/)**
 {{#qmacro}}- [{{_title}}]({{_link}}) ({{_date}})
 {{/qmacro}}
-
-**Latest posts from [Autodidactics](https://qmacro.org/autodidactics/)**
-{{#autodidactics}}- [{{_title}}]({{_link}}) ({{_date}})
-{{/autodidactics}}
-
-**Latest journal entries from [Thinking Aloud](https://github.com/qmacro/thinking-aloud)**
-{{#thinkingaloud}}- [{{_title}}]({{_link}})
-{{/thinkingaloud}}
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 {{#sap}}- [{{_title}}]({{_link}}) ({{_date}})
@@ -29,15 +21,11 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 {{#ytqmacro}}- [{{_title}}]({{_link}}) ({{_date}})
 {{/ytqmacro}}
 
-**Latest posts from [langram.org](https://langram.org)**
-{{#langram}}- [{{_title}}]({{_link}}) ({{_date}})
-{{/langram}}
-
 **Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
 {{#techaloud}}- [{{_title}}]({{_link}}) ({{_date}})
 {{/techaloud}}
 
-Follow me on [Twitter](https://twitter.com/qmacro), subscribe to my [YouTube channel](https://www.youtube.com/djadams-qmacro), read posts on my [personal blog](https://qmacro.org), on my [Language Ramblings blog](https://langram.org), and my [current](https://people.sap.com/dj.adams.sap#content:blogposts) & [previous](https://people.sap.com/dj.adams#content:blogposts) profiles on the [SAP Community](https://community.sap.com).
+Follow me on [Twitter](https://twitter.com/qmacro), subscribe to my [YouTube channel](https://www.youtube.com/djadams-qmacro), read posts on my [personal blog](https://qmacro.org/blog/), and on my [current](https://people.sap.com/dj.adams.sap#content:blogposts) & [previous](https://people.sap.com/dj.adams#content:blogposts) profiles on the [SAP Community](https://community.sap.com).
 
 [![My (early!) CodeWars Kata ranking](https://www.codewars.com/users/qmacro/badges/small)](https://www.codewars.com/users/qmacro)
 
