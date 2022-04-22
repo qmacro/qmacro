@@ -54,6 +54,7 @@ const main = async () => {
     feeds.qmacro = await latestRSS(sources.RSS.qmacro)
     feeds.ytqmacro = await latestRSS(sources.RSS.ytqmacro)
     feeds.ytsapdevs = await latestRSS(sources.RSS.ytsapdevs)
+    feeds.techaloud = await latestRSS(sources.RSS.techaloud)
     feeds.sap = await latestRSS(sources.RSS.sap)
     console.log(template({
       qmacro: feeds.qmacro,
