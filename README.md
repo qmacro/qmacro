@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
+- [Converting strings to objects with jq](https://qmacro.org/blog/posts/2022/05/06/converting-strings-to-objects-with-jq/) (Fri May 06 2022)
 - [Some thoughts on jq and statelessness](https://qmacro.org/blog/posts/2022/05/02/some-thoughts-on-jq-and-statelessness/) (Mon May 02 2022)
 - [Bash notes 3](https://qmacro.org/blog/posts/2022/04/17/bash-notes-3/) (Sun Apr 17 2022)
-- [A classic example of yak shaving, and some stream editing](https://qmacro.org/blog/posts/2022/04/15/a-classic-example-of-yak-shaving-and-some-stream-editing/) (Fri Apr 15 2022)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [SAP Community Code Challenge - Results](https://blogs.sap.com/?p&#x3D;1509342) (Fri Mar 18 2022)
