@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [SAP Tech Bytes: btp CLI - new home for configuration](https://blogs.sap.com/?p&#x3D;1492643) (Thu Feb 17 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Back to basics: OData - the Open Data Protocol - Part 1 - Introduction](https://www.youtube.com/watch?v&#x3D;O3OU2rSUqs0) (Mon May 09 2022)
 - [Wrapping up our adventures with SAP Service Manager](https://www.youtube.com/watch?v&#x3D;c0quSmzE8mc) (Fri May 06 2022)
 - [Digging deeper into service brokering and consumption on SAP Business Technology Platform](https://www.youtube.com/watch?v&#x3D;9OAlu1wuf78) (Fri Apr 29 2022)
-- [Exploring SAP Service Manager on SAP Business Technology Platform](https://www.youtube.com/watch?v&#x3D;5_Ns0ihQPD4) (Fri Apr 22 2022)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
