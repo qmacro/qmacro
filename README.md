@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Some thoughts on jq and statelessness](https://qmacro.org/blog/posts/2022/05/02/some-thoughts-on-jq-and-statelessness/) (Mon May 02 2022)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [SAP Community Global Running Day in Manchester - Wednesday 1st June 2022](https://blogs.sap.com/?p&#x3D;1543309) (Tue May 17 2022)
 - [SAP Community Code Challenge - Results](https://blogs.sap.com/?p&#x3D;1509342) (Fri Mar 18 2022)
 - [Exploring service brokers and service consumption on SAP Business Technology Platform](https://blogs.sap.com/?p&#x3D;1504601) (Tue Mar 08 2022)
-- [SAP Tech Bytes: btp CLI - new home for configuration](https://blogs.sap.com/?p&#x3D;1492643) (Thu Feb 17 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Back to basics: OData - the Open Data Protocol - Part 1 - Introduction](https://www.youtube.com/watch?v&#x3D;O3OU2rSUqs0) (Fri May 13 2022)
