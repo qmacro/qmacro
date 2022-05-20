@@ -11,7 +11,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Converting strings to objects with jq](https://qmacro.org/blog/posts/2022/05/06/converting-strings-to-objects-with-jq/) (Fri May 06 2022)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
-- [SAP Community Global Running Day in Manchester - Wednesday 1st June 2022](https://blogs.sap.com/?p&#x3D;1543309) (Tue May 17 2022)
+- [Global Running Day with SAP Community in Manchester - Wednesday 1st June 2022](https://blogs.sap.com/?p&#x3D;1543309) (Tue May 17 2022)
 - [SAP Community Code Challenge - Results](https://blogs.sap.com/?p&#x3D;1509342) (Fri Mar 18 2022)
 - [Exploring service brokers and service consumption on SAP Business Technology Platform](https://blogs.sap.com/?p&#x3D;1504601) (Tue Mar 08 2022)
 
