@@ -16,7 +16,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Exploring service brokers and service consumption on SAP Business Technology Platform](https://blogs.sap.com/?p&#x3D;1504601) (Tue Mar 08 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Back to basics: OData - the Open Data Protocol - Part 3 - System query options](https://www.youtube.com/watch?v&#x3D;Bln2A0_OauY) (Fri May 20 2022)
+- [Back to basics: OData - the Open Data Protocol - Part 3 - System query options](https://www.youtube.com/watch?v&#x3D;Bln2A0_OauY) (Fri May 27 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 2 - Basic operations](https://www.youtube.com/watch?v&#x3D;f9w61GxMztY) (Fri May 20 2022)
 - [Why Do I Need Kubernetes When I Already Have Cloud Foundry? - Sanjay Patil, SAP](https://www.youtube.com/watch?v&#x3D;0jy3hMt1Zc8) (Tue May 01 2018)
 
