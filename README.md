@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
+- [Multiple level filters in jq](https://qmacro.org/blog/posts/2022/05/28/multiple-level-filters-in-jq/) (Sat May 28 2022)
 - [Products by supplier in OData and jq](https://qmacro.org/blog/posts/2022/05/21/products-by-supplier-in-odata-and-jq/) (Sat May 21 2022)
 - [Exploring JSON with interactive jq](https://qmacro.org/blog/posts/2022/05/21/exploring-json-with-interactive-jq/) (Sat May 21 2022)
-- [JSON object values into CSV with jq](https://qmacro.org/blog/posts/2022/05/19/json-object-values-into-csv-with-jq/) (Thu May 19 2022)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Global Running Day with SAP Community in Manchester - Wednesday 1st June 2022](https://blogs.sap.com/?p&#x3D;1543309) (Tue May 17 2022)
