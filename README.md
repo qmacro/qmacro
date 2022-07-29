@@ -16,7 +16,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Exploring service brokers and service consumption on SAP Business Technology Platform](https://blogs.sap.com/?p&#x3D;1504601) (Tue Mar 08 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Back to basics: Using curl in the SAP enterprise landscape](https://www.youtube.com/watch?v&#x3D;k34-lD77Aj4) (Fri Jul 15 2022)
+- [Back to basics: Using curl in the SAP enterprise landscape](https://www.youtube.com/watch?v&#x3D;k34-lD77Aj4) (Fri Jul 29 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 6 - Wrapping up](https://www.youtube.com/watch?v&#x3D;PhA_VS4-lUw) (Fri Jul 15 2022)
 - [Back to basics: OData - the Open Data Protocol - Part 5 - Actions &amp; functions](https://www.youtube.com/watch?v&#x3D;tmwglig2mbw) (Fri Jun 24 2022)
 
