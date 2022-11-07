@@ -6,14 +6,14 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
-- [Understanding jq&#x27;s SQL style operators JOIN and INDEX](https://qmacro.org/blog/posts/2022/06/23/understanding-jq&amp;#39;s-sql-style-operators-join-and-index/) (Thu Jun 23 2022)
-- [Summing and grouping values with jq](https://qmacro.org/blog/posts/2022/06/16/summing-and-grouping-values-with-jq/) (Thu Jun 16 2022)
-- [Reshaping data values using jq&#x27;s with_entries](https://qmacro.org/blog/posts/2022/05/30/reshaping-data-values-using-jq&amp;#39;s-with_entries/) (Mon May 30 2022)
+- [Some notes on modular JSON Schema definitions](https://qmacro.org/blog/posts/2022/11/02/some-notes-on-modular-json-schema-definitions/) (Wed Nov 02 2022)
+- [More Untappd data explorations with jq - my top ranking beer types (part 3)](https://qmacro.org/blog/posts/2022/11/01/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-3)/) (Tue Nov 01 2022)
+- [More Untappd data explorations with jq - my top ranking beer types (part 2)](https://qmacro.org/blog/posts/2022/10/31/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-2)/) (Mon Oct 31 2022)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [Devtoberfest 2022 Week 2](https://blogs.sap.com/?p&#x3D;1620453) (Thu Oct 06 2022)
 - [Introducing &quot;SAP CodeJam BTP&quot; - a new group, and a first event](https://blogs.sap.com/?p&#x3D;1587110) (Thu Aug 04 2022)
 - [Global Running Day with SAP Community in Manchester - Wednesday 1st June 2022](https://blogs.sap.com/?p&#x3D;1543309) (Tue May 17 2022)
-- [SAP Community Code Challenge - Results](https://blogs.sap.com/?p&#x3D;1509342) (Fri Mar 18 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Back to basics: Using curl in the SAP enterprise landscape](https://www.youtube.com/watch?v&#x3D;k34-lD77Aj4) (Fri Jul 29 2022)
