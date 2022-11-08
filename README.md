@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
+- [Extracting blog post dates from URLs with jq](https://qmacro.org/blog/posts/2022/11/08/extracting-blog-post-dates-from-urls-with-jq/) (Tue Nov 08 2022)
 - [Some notes on modular JSON Schema definitions](https://qmacro.org/blog/posts/2022/11/02/some-notes-on-modular-json-schema-definitions/) (Wed Nov 02 2022)
 - [More Untappd data explorations with jq - my top ranking beer types (part 3)](https://qmacro.org/blog/posts/2022/11/01/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-3)/) (Tue Nov 01 2022)
-- [More Untappd data explorations with jq - my top ranking beer types (part 2)](https://qmacro.org/blog/posts/2022/10/31/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-2)/) (Mon Oct 31 2022)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Devtoberfest 2022 Week 2](https://blogs.sap.com/?p&#x3D;1620453) (Thu Oct 06 2022)
