@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [More Untappd data explorations with jq - my top ranking beer types (part 3)](https://qmacro.org/blog/posts/2022/11/01/more-untappd-data-explorations-with-jq-my-top-ranking-beer-types-(part-3)/) (Tue Nov 01 2022)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [24 Days of SAP Community - Door 09: Advent Of Code](https://blogs.sap.com/?p&#x3D;1661658) (Thu Dec 08 2022)
 - [Devtoberfest 2022 Week 2](https://blogs.sap.com/?p&#x3D;1620453) (Thu Oct 06 2022)
 - [Introducing &quot;SAP CodeJam BTP&quot; - a new group, and a first event](https://blogs.sap.com/?p&#x3D;1587110) (Thu Aug 04 2022)
-- [Global Running Day with SAP Community in Manchester - Wednesday 1st June 2022](https://blogs.sap.com/?p&#x3D;1543309) (Tue May 17 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Back to basics: Using curl in the SAP enterprise landscape](https://www.youtube.com/watch?v&#x3D;k34-lD77Aj4) (Fri Jul 29 2022)
