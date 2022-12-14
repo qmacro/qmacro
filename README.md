@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Devtoberfest 2022 Week 2](https://blogs.sap.com/?p&#x3D;1620453) (Thu Oct 06 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Back to basics: Using curl in the SAP enterprise landscape](https://www.youtube.com/watch?v&#x3D;k34-lD77Aj4) (Fri Jul 29 2022)
-- [Back to basics: OData - the Open Data Protocol - Part 6 - Wrapping up](https://www.youtube.com/watch?v&#x3D;PhA_VS4-lUw) (Fri Jul 15 2022)
-- [Back to basics: OData - the Open Data Protocol - Part 5 - Actions &amp; functions](https://www.youtube.com/watch?v&#x3D;tmwglig2mbw) (Fri Jun 24 2022)
+- [An introduction to the lightweight and flexible command-line JSON processor jq](https://www.youtube.com/watch?v&#x3D;AFr-27GnKbY) (Fri Dec 09 2022)
+- [Exploring the BTP Service Metadata project - Part 3](https://www.youtube.com/watch?v&#x3D;Jq-QcqLRrC8) (Fri Dec 09 2022)
+- [Exploring the BTP Service Metadata project - Part 2](https://www.youtube.com/watch?v&#x3D;hhhT1I7se3g) (Fri Dec 02 2022)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
