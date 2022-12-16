@@ -16,7 +16,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Devtoberfest 2022 Week 2](https://blogs.sap.com/?p&#x3D;1620453) (Thu Oct 06 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [An introduction to the lightweight and flexible command-line JSON processor jq](https://www.youtube.com/watch?v&#x3D;AFr-27GnKbY) (Fri Dec 09 2022)
+- [An introduction to the lightweight and flexible command-line JSON processor jq](https://www.youtube.com/watch?v&#x3D;AFr-27GnKbY) (Fri Dec 16 2022)
 - [Exploring the BTP Service Metadata project - Part 3](https://www.youtube.com/watch?v&#x3D;Jq-QcqLRrC8) (Fri Dec 09 2022)
 - [Exploring the BTP Service Metadata project - Part 2](https://www.youtube.com/watch?v&#x3D;hhhT1I7se3g) (Fri Dec 02 2022)
 
