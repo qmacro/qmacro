@@ -8,7 +8,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
 - [Living on a narrowboat - embracing constraints](https://qmacro.org/blog/posts/2023/01/16/living-on-a-narrowboat-embracing-constraints/) (Mon Jan 16 2023)
 - [Working from a narrowboat - Internet connectivity](https://qmacro.org/blog/posts/2023/01/09/working-from-a-narrowboat-internet-connectivity/) (Mon Jan 09 2023)
-- [I&#x27;m moving onto a narrowboat](https://qmacro.org/blog/posts/2023/01/02/i&amp;#39;m-moving-onto-a-narrowboat/) (Mon Jan 02 2023)
+- [I&#x27;m moving onto a narrowboat](https://qmacro.org/blog/posts/2023/01/02/i&#x27;m-moving-onto-a-narrowboat/) (Mon Jan 02 2023)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Managing resources on SAP BTP - what tool do I choose?](https://blogs.sap.com/?p&#x3D;1665699) (Mon Dec 12 2022)
