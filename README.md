@@ -26,9 +26,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [II - Preparing the OS image for Raspberry Pis in a cluster](https://www.youtube.com/watch?v&#x3D;IY5ZNZDI-EQ) (Fri Jun 12 2020)
 
 **Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
-- [Crisis Driven Development](https://podcasters.spotify.com/pod/show/tech-aloud/episodes/Crisis-Driven-Development-e12u6t9) (Thu Jun 17 2021)
-- [Monday morning thoughts: OData - DJ Adams](https://podcasters.spotify.com/pod/show/tech-aloud/episodes/Monday-morning-thoughts-OData---DJ-Adams-et0aot) (Fri Mar 19 2021)
-- [The User Interface - from The UNIX Time-sharing System - A Retrospective](https://podcasters.spotify.com/pod/show/tech-aloud/episodes/The-User-Interface---from-The-UNIX-Time-sharing-System---A-Retrospective-eku7oa) (Mon Oct 12 2020)
+- [Crisis Driven Development](https://anchor.fm/tech-aloud/episodes/Crisis-Driven-Development-e12u6t9) (Thu Jun 17 2021)
+- [Monday morning thoughts: OData - DJ Adams](https://anchor.fm/tech-aloud/episodes/Monday-morning-thoughts-OData---DJ-Adams-et0aot) (Fri Mar 19 2021)
+- [The User Interface - from The UNIX Time-sharing System - A Retrospective](https://anchor.fm/tech-aloud/episodes/The-User-Interface---from-The-UNIX-Time-sharing-System---A-Retrospective-eku7oa) (Mon Oct 12 2020)
 
 Follow me on [Twitter](https://twitter.com/qmacro), subscribe to my [YouTube channel](https://www.youtube.com/djadams-qmacro), read posts on my [personal blog](https://qmacro.org/blog/), and on my [current](https://people.sap.com/dj.adams.sap#content:blogposts) & [previous](https://people.sap.com/dj.adams#content:blogposts) profiles on the [SAP Community](https://community.sap.com).
 
