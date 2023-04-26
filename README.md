@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
+- [More on the comma as generator, and streaming with select in jq](https://qmacro.org/blog/posts/2023/04/25/more-on-the-comma-as-generator-and-streaming-with-select-in-jq/) (Tue Apr 25 2023)
 - [Double SAP BTP goodness in Isernhagen](https://qmacro.org/blog/posts/2023/04/16/double-sap-btp-goodness-in-isernhagen/) (Sun Apr 16 2023)
 - [Recognising patterns and embracing the stream](https://qmacro.org/blog/posts/2023/04/09/recognising-patterns-and-embracing-the-stream/) (Sun Apr 09 2023)
-- [Learning from community solutions on Exercism - part 3](https://qmacro.org/blog/posts/2023/04/09/learning-from-community-solutions-on-exercism-part-3/) (Sun Apr 09 2023)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Managing resources on SAP BTP - what tool do I choose?](https://blogs.sap.com/?p&#x3D;1665699) (Mon Dec 12 2022)
