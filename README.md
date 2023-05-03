@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Devtoberfest 2022 Week 2](https://blogs.sap.com/?p&#x3D;1620453) (Thu Oct 06 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Adding data for our SAP Cloud Application Programming Model service](https://www.youtube.com/watch?v&#x3D;N8B5395qA0M) (Fri Apr 28 2023)
 - [Extending and relating entities in SAP Cloud Application Programming Model](https://www.youtube.com/watch?v&#x3D;xolmwO02y1M) (Fri Mar 03 2023)
 - [Integrating an external API into an SAP Cloud Application Programming Model service](https://www.youtube.com/watch?v&#x3D;T_rjax3VY2E) (Fri Feb 03 2023)
-- [Exploring API specifications on the SAP API Business Hub](https://www.youtube.com/watch?v&#x3D;tW0-96gGQAs) (Fri Jan 27 2023)
 
 **Latest live streams & videos on [my YouTube channel](https://youtube.com/djadams-qmacro)**
 - [IV - Initial Raspberry Pi configuration via Ansible](https://www.youtube.com/watch?v&#x3D;vooBccHq6_4) (Mon Jun 22 2020)
