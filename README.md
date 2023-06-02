@@ -16,7 +16,7 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Devtoberfest 2022 Week 2](https://blogs.sap.com/?p&#x3D;1620453) (Thu Oct 06 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Exploring and understanding managed associations in CAP - Part 4](https://www.youtube.com/watch?v&#x3D;EtNv5VX4yxk) (Fri May 26 2023)
+- [Exploring and understanding managed associations in CAP - Part 4](https://www.youtube.com/watch?v&#x3D;EtNv5VX4yxk) (Fri Jun 02 2023)
 - [Exploring and understanding managed associations in CAP - Part 3](https://www.youtube.com/watch?v&#x3D;_Yc8NG5-1uY) (Fri May 26 2023)
 - [Exploring and understanding managed associations in CAP - Part 2](https://www.youtube.com/watch?v&#x3D;n72qmk58wSs) (Fri May 12 2023)
 
