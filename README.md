@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
+- [Mercia Marina to Shobnall Fields and Burton-on-Trent](https://qmacro.org/blog/posts/2023/07/21/mercia-marina-to-shobnall-fields-and-burton-on-trent/) (Fri Jul 21 2023)
 - [Resources for navigating the canal network](https://qmacro.org/blog/posts/2023/07/20/resources-for-navigating-the-canal-network/) (Thu Jul 20 2023)
 - [Oil change and a visit to Mercia Marina](https://qmacro.org/blog/posts/2023/07/18/oil-change-and-a-visit-to-mercia-marina/) (Tue Jul 18 2023)
-- [SAP CodeJam report - service integration with CAP in Guetersloh, DE](https://qmacro.org/blog/posts/2023/06/17/sap-codejam-report-service-integration-with-cap-in-guetersloh-de/) (Sat Jun 17 2023)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Managing resources on SAP BTP - what tool do I choose?](https://blogs.sap.com/?p&#x3D;1665699) (Mon Dec 12 2022)
