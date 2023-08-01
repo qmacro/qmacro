@@ -11,9 +11,9 @@ I've been hacking on SAP enterprise software for more than three decades, and am
 - [Resources for navigating the canal network](https://qmacro.org/blog/posts/2023/07/20/resources-for-navigating-the-canal-network/) (Thu Jul 20 2023)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [SAP Developer Challenge - APIs](https://blogs.sap.com/?p&#x3D;1814581) (Tue Aug 01 2023)
 - [Managing resources on SAP BTP - what tool do I choose?](https://blogs.sap.com/?p&#x3D;1665699) (Mon Dec 12 2022)
 - [24 Days of SAP Community - Door 09: Advent Of Code](https://blogs.sap.com/?p&#x3D;1661658) (Thu Dec 08 2022)
-- [Devtoberfest 2022 Week 2](https://blogs.sap.com/?p&#x3D;1620453) (Thu Oct 06 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Exploring and understanding managed associations in CAP - Part 4](https://www.youtube.com/watch?v&#x3D;EtNv5VX4yxk) (Fri Jun 02 2023)
