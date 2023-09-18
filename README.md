@@ -6,14 +6,14 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
+- [Devtoberfest - the best developer prep for SAP TechEd](https://qmacro.org/blog/posts/2023/09/18/devtoberfest-the-best-developer-prep-for-sap-teched/) (Mon Sep 18 2023)
 - [Bash shell expansion inside double quotes](https://qmacro.org/blog/posts/2023/08/25/bash-shell-expansion-inside-double-quotes/) (Fri Aug 25 2023)
 - [OData query operations and URL encoding the system query options with curl](https://qmacro.org/blog/posts/2023/08/08/odata-query-operations-and-url-encoding-the-system-query-options-with-curl/) (Tue Aug 08 2023)
-- [Curing my stove aboard the narrowboat](https://qmacro.org/blog/posts/2023/07/22/curing-my-stove-aboard-the-narrowboat/) (Sat Jul 22 2023)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
+- [Devtoberfest - the best developer prep for SAP TechEd](https://blogs.sap.com/?p&#x3D;1843851) (Mon Sep 18 2023)
 - [SAP Developer Challenge - APIs](https://blogs.sap.com/?p&#x3D;1814581) (Tue Aug 01 2023)
 - [Managing resources on SAP BTP - what tool do I choose?](https://blogs.sap.com/?p&#x3D;1665699) (Mon Dec 12 2022)
-- [24 Days of SAP Community - Door 09: Advent Of Code](https://blogs.sap.com/?p&#x3D;1661658) (Thu Dec 08 2022)
 
 **Latest [qmacro episodes](https://www.youtube.com/playlist?list=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb) from [SAPDevs](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Exploring and understanding managed associations in CAP - Part 4](https://www.youtube.com/watch?v&#x3D;EtNv5VX4yxk) (Fri Jun 02 2023)
