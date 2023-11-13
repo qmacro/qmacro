@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts from [qmacro.org](https://qmacro.org/blog/)**
+- [Tmux plugin development with a local repo](https://qmacro.org/blog/posts/2023/11/13/tmux-plugin-development-with-a-local-repo/) (Mon Nov 13 2023)
 - [TIL - Two Tmux Plugin Manager features](https://qmacro.org/blog/posts/2023/11/10/til-two-tmux-plugin-manager-features/) (Fri Nov 10 2023)
 - [Solving the SAP TechEd Easter Egg on the Web](https://qmacro.org/blog/posts/2023/11/02/solving-the-sap-teched-easter-egg-on-the-web/) (Thu Nov 02 2023)
-- [Devtoberfest - the best developer prep for SAP TechEd](https://qmacro.org/blog/posts/2023/09/18/devtoberfest-the-best-developer-prep-for-sap-teched/) (Mon Sep 18 2023)
 
 **Latest posts from the [SAP Community](https://people.sap.com/dj.adams.sap)**
 - [Devtoberfest - the best developer prep for SAP TechEd](https://blogs.sap.com/?p&#x3D;1843851) (Mon Sep 18 2023)
