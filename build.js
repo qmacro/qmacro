@@ -2,6 +2,9 @@ const Parser = require('rss-parser')
 const parser = new Parser({
   headers: {
     'Accept': 'application/atom+xml'
+  },
+  customFields: {
+    item: ['updated']
   }
 })
 
@@ -31,7 +34,7 @@ const normalise = {
   RSS: item => {
     item._title = item.title
     item._link = item.link
-    item._date = item.pubDate
+    item._date = item.updated
     item._excerpt = item.contentSnippet && item.contentSnippet.substring(0, 50) + '…'
     return item
   }
