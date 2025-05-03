@@ -17,8 +17,8 @@ I've been hacking on SAP enterprise software for a long time, and am still enjoy
 
 **Latest [episodes](https://www.youtube.com/playlist?list=PL6RpkC85SLQABOpzhd7WI-hMpy99PxUo0) from the [SAP Developers](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
 - [Let&#x27;s explore functional programming (part 3)](https://www.youtube.com/watch?v&#x3D;zVyxUWAnM2c)
-- [Extending SAP S/4HANA With SAP Build and Joule](https://www.youtube.com/watch?v&#x3D;l0xvVxkFv3Y)
 - [Let&#x27;s explore functional programming (part 2)](https://www.youtube.com/watch?v&#x3D;4XLCRF1Cc9w)
+- [Let&#x27;s explore functional programming (part 1)](https://www.youtube.com/watch?v&#x3D;CpvJcdoZ7yE)
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/djadams/), [Mastodon](https://hachyderm.io/@qmacro) &amp; [Bluesky](https://bsky.app/profile/qmacro.bsky.social) and read posts on my [blog](https://qmacro.org/blog/).
+Follow me on [LinkedIn](https://www.linkedin.com/in/djadams/), [Mastodon](https://hachyderm.io/@qmacro) &amp; [Bluesky](https://bsky.app/profile/qmacro.org) and read posts on my [blog](https://qmacro.org/blog/).
 
