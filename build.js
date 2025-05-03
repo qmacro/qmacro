@@ -20,6 +20,7 @@ const sources = {
     qmacro: 'https://qmacro.org/feed.xml',
     ytqmacro: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCDUgrP3koL_o2iz6m55H1uA',
     ytsapdevs: 'https://www.youtube.com/feeds/videos.xml?playlist_id=PL6RpkC85SLQABOpzhd7WI-hMpy99PxUo0',
+    ytsapdevs: 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLfctWmgNyOIebP3qa7jXfn68QcwS5dttb',
     techaloud: 'https://anchor.fm/s/e5dc36c/podcast/rss'
   }
 }
