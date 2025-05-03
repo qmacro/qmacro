@@ -17,5 +17,5 @@ I've been hacking on SAP enterprise software for a long time, and am still enjoy
 {{#ytsapdevs}}- [{{_title}}]({{_link}})
 {{/ytsapdevs}}
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/djadams/), [Mastodon](https://hachyderm.io/@qmacro) &amp; [Bluesky](https://bsky.app/profile/qmacro.bsky.social) and read posts on my [blog](https://qmacro.org/blog/).
+Follow me on [LinkedIn](https://www.linkedin.com/in/djadams/), [Mastodon](https://hachyderm.io/@qmacro) &amp; [Bluesky](https://bsky.app/profile/qmacro.org) and read posts on my [blog](https://qmacro.org/blog/).
 `
