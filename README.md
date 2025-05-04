@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for a long time, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts on my blog at [qmacro.org](https://qmacro.org/blog/)**
+- [Adjusting the preview width in Telescope&#x27;s horizontal picker](https://qmacro.org/blog/posts/2025/05/04/adjusting-the-preview-width-in-telescope&#x27;s-horizontal-picker/) (Sun May 04 2025)
 - [FP, function chains and CAP model loading](https://qmacro.org/blog/posts/2025/05/01/fp-function-chains-and-cap-model-loading/) (Thu May 01 2025)
 - [Array.prototype.reduce and the optional initial value](https://qmacro.org/blog/posts/2025/04/29/array.prototype.reduce-and-the-optional-initial-value/) (Tue Apr 29 2025)
-- [Functional programming resources](https://qmacro.org/blog/posts/2025/03/24/functional-programming-resources/) (Mon Mar 24 2025)
 
 **Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
 - [The Seven Reasons Your SAP Tech Initiatives Are Failing - John Patterson - 26 Feb 2025](https://podcasters.spotify.com/pod/show/tech-aloud/episodes/The-Seven-Reasons-Your-SAP-Tech-Initiatives-Are-Failing---John-Patterson---26-Feb-2025-e32876f) (Thu May 01 2025)
