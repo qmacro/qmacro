@@ -16,9 +16,9 @@ I've been hacking on SAP enterprise software for a long time, and am still enjoy
 - [Five reasons to use CAP - DJ Adams - 07 Nov 2024 ](https://podcasters.spotify.com/pod/show/tech-aloud/episodes/Five-reasons-to-use-CAP---DJ-Adams---07-Nov-2024-e2r2lth) (Sat Nov 16 2024)
 
 **Latest [episodes](https://www.youtube.com/playlist?list=PL6RpkC85SLQABOpzhd7WI-hMpy99PxUo0) from the [SAP Developers](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
+- [Let&#x27;s explore functional programming (part 4)](https://www.youtube.com/watch?v&#x3D;1j253luGOlU)
 - [Let&#x27;s explore functional programming (part 3)](https://www.youtube.com/watch?v&#x3D;zVyxUWAnM2c)
 - [Let&#x27;s explore functional programming (part 2)](https://www.youtube.com/watch?v&#x3D;4XLCRF1Cc9w)
-- [Let&#x27;s explore functional programming (part 1)](https://www.youtube.com/watch?v&#x3D;CpvJcdoZ7yE)
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/djadams/), [Mastodon](https://hachyderm.io/@qmacro) &amp; [Bluesky](https://bsky.app/profile/qmacro.org) and read posts on my [blog](https://qmacro.org/blog/).
 
