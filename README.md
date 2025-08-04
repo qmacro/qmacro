@@ -6,9 +6,9 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for a long time, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts on my blog at [qmacro.org](https://qmacro.org/blog/)**
+- [Excluding specific diagnostics in Neovim](https://qmacro.org/blog/posts/2025/08/04/excluding-specific-diagnostics-in-neovim/) (Mon Aug 04 2025)
 - [A reCAP intro to the cds REPL](https://qmacro.org/blog/posts/2025/07/21/a-recap-intro-to-the-cds-repl/) (Mon Jul 21 2025)
 - [A modern and clean Neovim setup for CAP Node.js - configuration and diagnostics](https://qmacro.org/blog/posts/2025/06/10/a-modern-and-clean-neovim-setup-for-cap-node.js-configuration-and-diagnostics/) (Tue Jun 10 2025)
-- [Point free coding and function composition](https://qmacro.org/blog/posts/2025/05/15/point-free-coding-and-function-composition/) (Thu May 15 2025)
 
 **Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
 - [SAP BTP runtimes, my personal considerations and preferences on Cloud Foundry, Kyma, ABAP runtimes - Mauricio Lauffer - 18 Jun 2025](https://podcasters.spotify.com/pod/show/tech-aloud/episodes/SAP-BTP-runtimes--my-personal-considerations-and-preferences-on-Cloud-Foundry--Kyma--ABAP-runtimes---Mauricio-Lauffer---18-Jun-2025-e34tadv) (Mon Jun 30 2025)
