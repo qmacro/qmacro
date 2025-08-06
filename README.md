@@ -6,7 +6,7 @@ I'm a [Developer Advocate](https://developers.sap.com/developer-advocates.html) 
 I've been hacking on SAP enterprise software for a long time, and am still enjoying it. I've [written books](https://qmacro.org/about/#writing-and-talks) for O’Reilly and SAP Press, and speak at conferences and meetups around the world. Find out more [about me here](https://qmacro.org/about).
 
 **Latest posts on my blog at [qmacro.org](https://qmacro.org/blog/)**
-- [Neovim configuration for file and module navigation in CDS models](https://qmacro.org/blog/posts/2025/08/05/neovim-configuration-for-file-and-module-navigation-in-cds-models/) (Tue Aug 05 2025)
+- [Neovim configuration for file and module navigation in CDS models](https://qmacro.org/blog/posts/2025/08/06/neovim-configuration-for-file-and-module-navigation-in-cds-models/) (Wed Aug 06 2025)
 - [Excluding specific diagnostics in Neovim](https://qmacro.org/blog/posts/2025/08/04/excluding-specific-diagnostics-in-neovim/) (Mon Aug 04 2025)
 - [A reCAP intro to the cds REPL](https://qmacro.org/blog/posts/2025/07/21/a-recap-intro-to-the-cds-repl/) (Mon Jul 21 2025)
 
