@@ -10,15 +10,5 @@ I've been hacking on SAP enterprise software for a long time, and am still enjoy
 - [Balancing context size and callable tool metadata with CAP&#x27;s MCP adapter](https://qmacro.org/blog/posts/2026/08/23/balancing-context-size-and-callable-tool-metadata-with-caps-mcp-adapter/) (Sun Aug 23 2026)
 - [Knowledge and netiquette in today&#x27;s AI era](https://qmacro.org/blog/posts/2026/07/29/knowledge-and-netiquette-in-todays-ai-era/) (Wed Jul 29 2026)
 
-**Latest episodes on my [Tech Aloud](https://anchor.fm/tech-aloud) podcast series**
-- [SAP BTP runtimes, my personal considerations and preferences on Cloud Foundry, Kyma, ABAP runtimes - Mauricio Lauffer - 18 Jun 2025](https://podcasters.spotify.com/pod/show/tech-aloud/episodes/SAP-BTP-runtimes--my-personal-considerations-and-preferences-on-Cloud-Foundry--Kyma--ABAP-runtimes---Mauricio-Lauffer---18-Jun-2025-e34tadv) (Mon Jun 30 2025)
-- [The Seven Reasons Your SAP Tech Initiatives Are Failing - John Patterson - 26 Feb 2025](https://podcasters.spotify.com/pod/show/tech-aloud/episodes/The-Seven-Reasons-Your-SAP-Tech-Initiatives-Are-Failing---John-Patterson---26-Feb-2025-e32876f) (Thu May 01 2025)
-- [How Lisp Became God&#x27;s Own Programming Language - Sinclair Target - 14 Oct 2018](https://podcasters.spotify.com/pod/show/tech-aloud/episodes/How-Lisp-Became-Gods-Own-Programming-Language---Sinclair-Target---14-Oct-2018-e2rip0q) (Wed Nov 27 2024)
-
-**Latest [episodes](https://www.youtube.com/playlist?list=PL6RpkC85SLQABOpzhd7WI-hMpy99PxUo0) from the [SAP Developers](https://www.youtube.com/user/sapdevs) Hands-on SAP Dev show**
-- [Let&#x27;s explore functional programming (part 5)](https://www.youtube.com/watch?v&#x3D;8eKWxP3F6xc)
-- [Let&#x27;s explore functional programming (part 4)](https://www.youtube.com/watch?v&#x3D;1j253luGOlU)
-- [Let&#x27;s explore functional programming (part 3)](https://www.youtube.com/watch?v&#x3D;zVyxUWAnM2c)
-
 Follow me on [LinkedIn](https://www.linkedin.com/in/djadams/), [Mastodon](https://hachyderm.io/@qmacro) &amp; [Bluesky](https://bsky.app/profile/qmacro.org) and read posts on my [blog](https://qmacro.org/blog/).
 
