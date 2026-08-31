@@ -55,14 +55,14 @@ const main = async () => {
   try {
     const feeds = {}
     feeds.qmacro = await latestRSS(sources.RSS.qmacro)
-    feeds.ytqmacro = await latestRSS(sources.RSS.ytqmacro)
-    feeds.ytsapdevs = await latestRSS(sources.RSS.ytsapdevs)
-    feeds.techaloud = await latestRSS(sources.RSS.techaloud)
+    // feeds.ytqmacro = await latestRSS(sources.RSS.ytqmacro)
+    // feeds.ytsapdevs = await latestRSS(sources.RSS.ytsapdevs)
+    // feeds.techaloud = await latestRSS(sources.RSS.techaloud)
     console.log(template({
       qmacro: feeds.qmacro,
-      ytqmacro: feeds.ytqmacro,
-      ytsapdevs: feeds.ytsapdevs,
-      techaloud: feeds.techaloud
+      // ytqmacro: feeds.ytqmacro,
+      // ytsapdevs: feeds.ytsapdevs,
+      // techaloud: feeds.techaloud
     }))
   } catch (error) {
     console.log(`${error}`)
